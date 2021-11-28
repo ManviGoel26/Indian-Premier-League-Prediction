@@ -1,0 +1,781 @@
+,id,city,player_of_match,venue,neutral_venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,umpire1,umpire2,yr,team1_points,team2_points
+0,335982,Bangalore,BB McCullum,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,140.0,Asad Rauf,RE Koertzen,2008,1595.5,1535.5
+1,335983,Chandigarh,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,33.0,MR Benson,SL Shastri,2008,2006.5,2032.0
+2,335984,Delhi,MF Maharoof,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,bat,Delhi Daredevils,wickets,9.0,Aleem Dar,GA Pratapkumar,2008,1796.5,2214.5
+3,335985,Mumbai,MV Boucher,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,5.0,SJ Davis,DJ Harper,2008,1849.5,1595.5
+4,335986,Kolkata,DJ Hussey,Eden Gardens,0,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,bat,Kolkata Knight Riders,wickets,5.0,BF Bowden,K Hariharan,2008,1535.5,1738.0
+5,335987,Jaipur,SR Watson,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,wickets,6.0,Aleem Dar,RB Tiffin,2008,2214.5,2006.5
+6,335988,Hyderabad,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,wickets,9.0,IL Howell,AM Saheba,2008,1738.0,1796.5
+7,335989,Chennai,ML Hayden,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,6.0,DJ Harper,GA Pratapkumar,2008,2032.0,1849.5
+8,335990,Hyderabad,YK Pathan,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,Asad Rauf,MR Benson,2008,1738.0,2214.5
+9,335991,Chandigarh,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,66.0,Aleem Dar,AM Saheba,2008,2006.5,1849.5
+10,335992,Bangalore,SR Watson,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,MR Benson,IL Howell,2008,1595.5,2214.5
+11,335993,Chennai,JDP Oram,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,9.0,BF Bowden,AV Jayaprakash,2008,2032.0,1535.5
+12,335994,Mumbai,AC Gilchrist,Dr DY Patil Sports Academy,0,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,10.0,Asad Rauf,SL Shastri,2008,1849.5,1738.0
+13,335995,Chandigarh,SM Katich,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,bat,Kings XI Punjab,wickets,4.0,RE Koertzen,I Shivram,2008,2006.5,1796.5
+14,335996,Bangalore,MS Dhoni,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,13.0,BR Doctrove,RB Tiffin,2008,1595.5,2032.0
+15,335997,Kolkata,ST Jayasuriya,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7.0,BF Bowden,AV Jayaprakash,2008,1535.5,1849.5
+16,335998,Delhi,GD McGrath,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Daredevils,runs,10.0,Aleem Dar,I Shivram,2008,1796.5,1595.5
+17,335999,Hyderabad,SE Marsh,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7.0,BR Doctrove,RB Tiffin,2008,1738.0,2006.5
+18,336000,Jaipur,SA Asnodkar,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,45.0,RE Koertzen,GA Pratapkumar,2008,2214.5,1535.5
+19,336001,Chennai,V Sehwag,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Delhi Daredevils,wickets,8.0,BF Bowden,K Hariharan,2008,2032.0,1796.5
+20,336002,Hyderabad,R Vinay Kumar,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Royal Challengers Bangalore,wickets,5.0,Asad Rauf,RE Koertzen,2008,1738.0,1595.5
+21,336003,Chandigarh,IK Pathan,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kings XI Punjab,runs,9.0,DJ Harper,I Shivram,2008,2006.5,1535.5
+22,336004,Mumbai,SM Pollock,Dr DY Patil Sports Academy,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,29.0,IL Howell,RE Koertzen,2008,1849.5,1796.5
+23,336005,Jaipur,Sohail Tanvir,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,8.0,Asad Rauf,AV Jayaprakash,2008,2214.5,2032.0
+24,336006,Bangalore,S Sreesanth,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,SJ Davis,BR Doctrove,2008,1595.5,2006.5
+25,336007,Chennai,AC Gilchrist,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,7.0,MR Benson,RB Tiffin,2008,2032.0,1738.0
+26,336008,Mumbai,A Nehra,Dr DY Patil Sports Academy,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,7.0,DJ Harper,RE Koertzen,2008,1849.5,2214.5
+27,336009,Delhi,MS Dhoni,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,Aleem Dar,RB Tiffin,2008,1796.5,2032.0
+28,336010,Kolkata,SC Ganguly,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,5.0,Asad Rauf,IL Howell,2008,1535.5,1595.5
+29,336011,Jaipur,YK Pathan,Sawai Mansingh Stadium,0,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,field,Rajasthan Royals,wickets,8.0,MR Benson,AM Saheba,2008,2214.5,1738.0
+30,336012,Bangalore,CRD Fernando,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9.0,BF Bowden,AV Jayaprakash,2008,1595.5,1849.5
+31,336013,Chennai,L Balaji,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,Chennai Super Kings,runs,18.0,AV Jayaprakash,BG Jerling,2008,2032.0,2006.5
+32,336014,Hyderabad,SC Ganguly,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23.0,IL Howell,AM Saheba,2008,1738.0,1535.5
+33,336015,Jaipur,SR Watson,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,SJ Davis,RE Koertzen,2008,2214.5,1796.5
+34,336016,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,9.0,BR Doctrove,I Shivram,2008,2006.5,1595.5
+35,336017,Kolkata,Shoaib Akhtar,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23.0,Asad Rauf,IL Howell,2008,1535.5,1796.5
+36,336018,Mumbai,ST Jayasuriya,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,9.0,BR Doctrove,AM Saheba,2008,1849.5,2032.0
+37,336019,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,41.0,SJ Davis,K Hariharan,2008,2006.5,2214.5
+38,336020,Delhi,A Mishra,Feroz Shah Kotla,0,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Delhi Daredevils,runs,12.0,BG Jerling,GA Pratapkumar,2008,1796.5,1738.0
+39,336021,Mumbai,SM Pollock,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,8.0,BR Doctrove,DJ Harper,2008,1849.5,1535.5
+40,336023,Jaipur,GC Smith,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,runs,65.0,BF Bowden,SL Shastri,2008,2214.5,1595.5
+41,336024,Hyderabad,DJ Bravo,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,25.0,BR Doctrove,DJ Harper,2008,1738.0,1849.5
+42,336026,Bangalore,SP Goswami,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,5.0,SJ Davis,GA Pratapkumar,2008,1595.5,1796.5
+43,336027,Kolkata,YK Pathan,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,BG Jerling,RE Koertzen,2008,1535.5,2214.5
+44,336028,Mumbai,SE Marsh,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,1.0,BF Bowden,GA Pratapkumar,2008,1849.5,2006.5
+45,336029,Chennai,A Kumble,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,14.0,DJ Harper,I Shivram,2008,2032.0,1595.5
+46,336031,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,Asad Rauf,SJ Davis,2008,2006.5,1738.0
+47,336032,Delhi,KD Karthik,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Delhi Daredevils,wickets,5.0,BF Bowden,K Hariharan,2008,1796.5,1849.5
+48,336033,Chennai,JA Morkel,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,10.0,DJ Harper,SL Shastri,2008,2032.0,2214.5
+49,336034,Bangalore,P Kumar,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Royal Challengers Bangalore,runs,3.0,BR Doctrove,SL Shastri,2008,1595.5,1738.0
+50,336035,Kolkata,Umar Gul,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,3.0,SJ Davis,I Shivram,2008,1535.5,2006.5
+51,336036,Jaipur,Sohail Tanvir,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,5.0,BF Bowden,K Hariharan,2008,2214.5,1849.5
+52,336037,Hyderabad,SK Raina,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,Chennai Super Kings,wickets,7.0,BG Jerling,AM Saheba,2008,1738.0,2032.0
+53,336038,Mumbai,SR Watson,Wankhede Stadium,0,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,field,Rajasthan Royals,runs,105.0,BF Bowden,RE Koertzen,2008,1796.5,2214.5
+54,336039,Mumbai,M Ntini,Wankhede Stadium,0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,bat,Chennai Super Kings,wickets,9.0,Asad Rauf,DJ Harper,2008,2032.0,2006.5
+55,336040,Mumbai,YK Pathan,Dr DY Patil Sports Academy,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,BF Bowden,RE Koertzen,2008,2032.0,2214.5
+56,392181,Cape Town,SR Tendulkar,Newlands,1,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,19.0,BR Doctrove,K Hariharan,2009,1799.5,1539.0
+57,392182,Cape Town,R Dravid,Newlands,1,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,75.0,BR Doctrove,RB Tiffin,2009,1835.0,1594.0
+58,392184,Cape Town,RP Singh,Newlands,1,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,bat,Deccan Chargers,wickets,8.0,MR Benson,BR Doctrove,2009,2094.0,1416.0
+59,392185,Port Elizabeth,M Muralitharan,St George's Park,1,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,92.0,BG Jerling,SJA Taufel,2009,1835.0,1799.5
+60,392188,Cape Town,AC Gilchrist,Newlands,1,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,24.0,M Erasmus,AM Saheba,2009,1835.0,2094.0
+61,392189,Durban,AB de Villiers,Kingsmead,1,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,9.0,BR Doctrove,SJA Taufel,2009,1799.5,1862.5
+62,392191,Durban,RS Bopara,Kingsmead,1,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,7.0,BR Doctrove,TH Wijewardene,2009,1835.0,1578.5
+63,392192,Durban,PP Ojha,Kingsmead,1,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,12.0,HDPK Dharmasena,SJA Taufel,2009,2094.0,1539.0
+64,392194,Port Elizabeth,TM Dilshan,St George's Park,1,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Delhi Daredevils,wickets,6.0,S Asnani,BG Jerling,2009,1835.0,1862.5
+65,392195,Cape Town,KC Sangakkara,Newlands,1,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,Kings XI Punjab,runs,27.0,M Erasmus,K Hariharan,2009,1578.5,1594.0
+66,392196,Durban,HH Gibbs,Kingsmead,1,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6.0,IL Howell,TH Wijewardene,2009,1799.5,2094.0
+67,392197,Port Elizabeth,SR Tendulkar,St George's Park,1,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,92.0,BG Jerling,RB Tiffin,2009,1416.0,1539.0
+68,392198,Centurion,YK Pathan,SuperSport Park,1,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Rajasthan Royals,wickets,5.0,GAV Baxter,RE Koertzen,2009,1862.5,1594.0
+69,392199,Durban,MV Boucher,Kingsmead,1,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,wickets,5.0,MR Benson,TH Wijewardene,2009,1835.0,1416.0
+70,392200,Durban,KC Sangakkara,Kingsmead,1,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Kings XI Punjab,runs,3.0,MR Benson,SL Shastri,2009,1578.5,1539.0
+71,392201,Centurion,DP Nannes,SuperSport Park,1,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6.0,GAV Baxter,AM Saheba,2009,2094.0,1862.5
+72,392202,Centurion,SK Raina,SuperSport Park,1,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,38.0,GAV Baxter,RE Koertzen,2009,1799.5,1594.0
+73,392203,East London,JP Duminy,Buffalo Park,1,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9.0,M Erasmus,SK Tarapore,2009,1416.0,1539.0
+74,392204,Durban,Yuvraj Singh,Kingsmead,1,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,8.0,HDPK Dharmasena,S Ravi,2009,1835.0,1578.5
+75,392205,Port Elizabeth,YK Pathan,St George's Park,1,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Rajasthan Royals,wickets,3.0,S Asnani,BG Jerling,2009,2094.0,1594.0
+76,392206,Johannesburg,SB Jakati,New Wanderers Stadium,1,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,18.0,DJ Harper,RE Koertzen,2009,1799.5,1862.5
+77,392207,Port Elizabeth,DPMD Jayawardene,St George's Park,1,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kings XI Punjab,wickets,6.0,S Asnani,MR Benson,2009,1578.5,1416.0
+78,392208,Johannesburg,JH Kallis,New Wanderers Stadium,1,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,9.0,RE Koertzen,TH Wijewardene,2009,1835.0,1539.0
+79,392209,East London,MS Dhoni,Buffalo Park,1,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,78.0,BR Doctrove,M Erasmus,2009,1799.5,2094.0
+80,392210,Durban,GC Smith,Kingsmead,1,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,78.0,SS Hazare,IL Howell,2009,1578.5,1594.0
+81,392211,Durban,G Gambhir,Kingsmead,1,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,9.0,GAV Baxter,IL Howell,2009,1862.5,1416.0
+82,392212,Centurion,RG Sharma,SuperSport Park,1,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,19.0,MR Benson,HDPK Dharmasena,2009,2094.0,1539.0
+83,392213,Centurion,A Singh,SuperSport Park,1,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,K Hariharan,DJ Harper,2009,1835.0,1594.0
+84,392215,East London,A Nehra,Buffalo Park,1,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,7.0,M Erasmus,SK Tarapore,2009,1862.5,1539.0
+85,392216,Kimberley,DPMD Jayawardene,De Beers Diamond Oval,1,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,3.0,GAV Baxter,AM Saheba,2009,2094.0,1578.5
+86,392217,Kimberley,S Badrinath,De Beers Diamond Oval,1,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7.0,GAV Baxter,HDPK Dharmasena,2009,1799.5,1594.0
+87,392218,Port Elizabeth,JP Duminy,St George's Park,1,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,16.0,BR Doctrove,BG Jerling,2009,1835.0,1539.0
+88,392219,Johannesburg,A Mishra,New Wanderers Stadium,1,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,field,Delhi Daredevils,wickets,7.0,SL Shastri,RB Tiffin,2009,1862.5,1416.0
+89,392220,Kimberley,DR Smith,De Beers Diamond Oval,1,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Deccan Chargers,runs,53.0,GAV Baxter,HDPK Dharmasena,2009,2094.0,1594.0
+90,392221,Centurion,LRPL Taylor,SuperSport Park,1,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,M Erasmus,SS Hazare,2009,1835.0,1416.0
+91,392222,Centurion,Harbhajan Singh,SuperSport Park,1,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,wickets,8.0,SS Hazare,RE Koertzen,2009,1578.5,1539.0
+92,392223,Durban,R Bhatia,Kingsmead,1,Deccan Chargers,Delhi Daredevils,Deccan Chargers,field,Delhi Daredevils,runs,12.0,DJ Harper,SL Shastri,2009,2094.0,1862.5
+93,392224,Durban,LRPL Taylor,Kingsmead,1,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,wickets,2.0,BR Doctrove,DJ Harper,2009,1835.0,1799.5
+94,392225,Durban,SK Warne,Kingsmead,1,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2.0,BR Doctrove,DJ Harper,2009,1539.0,1594.0
+95,392226,Bloemfontein,B Lee,OUTsurance Oval,1,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,HDPK Dharmasena,IL Howell,2009,1862.5,1578.5
+96,392227,Port Elizabeth,ML Hayden,St George's Park,1,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7.0,SK Tarapore,SJA Taufel,2009,1799.5,1539.0
+97,392228,Johannesburg,RG Sharma,New Wanderers Stadium,1,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Deccan Chargers,wickets,6.0,RE Koertzen,S Ravi,2009,2094.0,1416.0
+98,392229,Johannesburg,Yuvraj Singh,New Wanderers Stadium,1,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,1.0,S Ravi,RB Tiffin,2009,2094.0,1578.5
+99,392230,Bloemfontein,AB de Villiers,OUTsurance Oval,1,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,14.0,SS Hazare,IL Howell,2009,1862.5,1594.0
+100,392231,Centurion,BJ Hodge,SuperSport Park,1,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,7.0,SJA Taufel,RB Tiffin,2009,1799.5,1416.0
+101,392232,Johannesburg,JH Kallis,New Wanderers Stadium,1,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,bat,Royal Challengers Bangalore,wickets,7.0,IL Howell,RB Tiffin,2009,1835.0,1862.5
+102,392233,Durban,LR Shukla,Kingsmead,1,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4.0,BG Jerling,SJA Taufel,2009,1416.0,1594.0
+103,392234,Durban,M Muralitharan,Kingsmead,1,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,BG Jerling,SJA Taufel,2009,1799.5,1578.5
+104,392235,Centurion,V Sehwag,SuperSport Park,1,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Delhi Daredevils,wickets,4.0,IL Howell,S Ravi,2009,1862.5,1539.0
+105,392236,Centurion,MK Pandey,SuperSport Park,1,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,12.0,IL Howell,S Ravi,2009,1835.0,2094.0
+106,392237,Centurion,AC Gilchrist,SuperSport Park,1,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6.0,BR Doctrove,DJ Harper,2009,1862.5,2094.0
+107,392238,Johannesburg,MK Pandey,New Wanderers Stadium,1,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,RE Koertzen,SJA Taufel,2009,1835.0,1799.5
+108,392239,Johannesburg,A Kumble,New Wanderers Stadium,1,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Deccan Chargers,runs,6.0,RE Koertzen,SJA Taufel,2009,1835.0,2094.0
+109,419106,Mumbai,AD Mathews,Dr DY Patil Sports Academy,0,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Kolkata Knight Riders,runs,11.0,RE Koertzen,RB Tiffin,2010,2004.5,1599.0
+110,419107,Mumbai,YK Pathan,Brabourne Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,4.0,RE Koertzen,RB Tiffin,2010,2020.5,1685.5
+111,419108,Chandigarh,G Gambhir,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,5.0,BR Doctrove,S Ravi,2010,1684.5,1766.0
+112,419109,Kolkata,MK Tiwary,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,HDPK Dharmasena,AM Saheba,2010,1599.0,2011.0
+113,419110,Chennai,WPUJC Vaas,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,31.0,K Hariharan,DJ Harper,2010,2108.5,2004.5
+114,419111,Ahmedabad,V Sehwag,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6.0,BG Jerling,RE Koertzen,2010,1685.5,1766.0
+115,419112,Bangalore,JH Kallis,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,bat,Royal Challengers Bangalore,wickets,8.0,S Das,DJ Harper,2010,2011.0,1684.5
+116,419113,Kolkata,MS Dhoni,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,55.0,HDPK Dharmasena,AM Saheba,2010,1599.0,2108.5
+117,419114,Delhi,SR Tendulkar,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Mumbai Indians,runs,98.0,BR Doctrove,SK Tarapore,2010,1766.0,2020.5
+118,419115,Bangalore,JH Kallis,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10.0,K Hariharan,DJ Harper,2010,2011.0,1685.5
+119,419116,Delhi,ML Hayden,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,Chennai Super Kings,wickets,5.0,BR Doctrove,SK Tarapore,2010,1766.0,2108.5
+120,419117,Cuttack,A Symonds,Barabati Stadium,0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Deccan Chargers,runs,6.0,BF Bowden,M Erasmus,2010,2004.5,1684.5
+121,419118,Ahmedabad,AA Jhunjhunwala,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,34.0,RE Koertzen,RB Tiffin,2010,1685.5,1599.0
+122,419119,Mumbai,JH Kallis,Brabourne Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,7.0,HDPK Dharmasena,SS Hazare,2010,2020.5,2011.0
+123,419120,Cuttack,A Symonds,Barabati Stadium,0,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Deccan Chargers,runs,10.0,BF Bowden,M Erasmus,2010,2004.5,1766.0
+124,419122,Mumbai,SR Tendulkar,Brabourne Stadium,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7.0,SS Hazare,SJA Taufel,2010,2020.5,1599.0
+125,419123,Bangalore,RV Uthappa,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,36.0,RE Koertzen,RB Tiffin,2010,2011.0,2108.5
+126,419124,Chandigarh,AC Voges,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,31.0,BR Doctrove,SK Tarapore,2010,1684.5,1685.5
+127,419125,Mumbai,SR Tendulkar,Brabourne Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,5.0,BF Bowden,AM Saheba,2010,2020.5,2108.5
+128,419126,Ahmedabad,YK Pathan,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,wickets,8.0,HDPK Dharmasena,SJA Taufel,2010,1685.5,2004.5
+129,419127,Chandigarh,MK Tiwary,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,39.0,BR Doctrove,S Ravi,2010,1684.5,1599.0
+130,419128,Bangalore,KM Jadhav,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,Delhi Daredevils,runs,17.0,BG Jerling,RE Koertzen,2010,2011.0,1766.0
+131,419129,Ahmedabad,NV Ojha,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,17.0,SS Hazare,SJA Taufel,2010,1685.5,2108.5
+132,419130,Mumbai,Harbhajan Singh,Dr DY Patil Sports Academy,0,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,41.0,S Das,K Hariharan,2010,2004.5,2020.5
+133,419131,Delhi,DA Warner,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Delhi Daredevils,runs,40.0,SS Hazare,SJA Taufel,2010,1766.0,1599.0
+134,419132,Mumbai,SL Malinga,Brabourne Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Mumbai Indians,wickets,4.0,BR Doctrove,SK Tarapore,2010,2020.5,1684.5
+135,419133,Chennai,M Vijay,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5.0,BG Jerling,RE Koertzen,2010,2108.5,2011.0
+136,419134,Delhi,KD Karthik,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,67.0,HDPK Dharmasena,SJA Taufel,2010,1766.0,1685.5
+137,419135,Kolkata,SC Ganguly,Eden Gardens,0,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,24.0,K Hariharan,DJ Harper,2010,1599.0,2004.5
+138,419136,Chandigarh,KP Pietersen,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Royal Challengers Bangalore,wickets,6.0,BF Bowden,M Erasmus,2010,1684.5,2011.0
+139,419137,Chennai,M Vijay,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,23.0,RE Koertzen,RB Tiffin,2010,2108.5,1685.5
+140,419138,Mumbai,AT Rayudu,Brabourne Stadium,0,Mumbai Indians,Deccan Chargers,Mumbai Indians,bat,Mumbai Indians,runs,63.0,BR Doctrove,S Ravi,2010,2020.5,2004.5
+141,419139,Kolkata,DPMD Jayawardene,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kings XI Punjab,wickets,8.0,S Asnani,DJ Harper,2010,1599.0,1684.5
+142,419140,Delhi,PD Collingwood,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,Delhi Daredevils,runs,37.0,BF Bowden,M Erasmus,2010,1766.0,2011.0
+143,419141,Nagpur,SK Warne,"Vidarbha Cricket Association Stadium, Jamtha",0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2.0,HDPK Dharmasena,SJA Taufel,2010,2004.5,1685.5
+144,419142,Chennai,SK Raina,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,S Asnani,DJ Harper,2010,2108.5,2020.5
+145,419143,Jaipur,MJ Lumb,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,wickets,9.0,S Ravi,SK Tarapore,2010,1685.5,1684.5
+146,419144,Kolkata,SC Ganguly,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,14.0,BG Jerling,RE Koertzen,2010,1599.0,1766.0
+147,419145,Bangalore,TL Suman,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,7.0,S Asnani,DJ Harper,2010,2011.0,2004.5
+148,419146,Chandigarh,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,bat,Kings XI Punjab,wickets,6.0,M Erasmus,AM Saheba,2010,1684.5,2020.5
+149,419147,Nagpur,RJ Harris,"Vidarbha Cricket Association Stadium, Jamtha",0,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,bat,Deccan Chargers,wickets,6.0,HDPK Dharmasena,SJA Taufel,2010,2004.5,2108.5
+150,419148,Bangalore,R Vinay Kumar,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,K Hariharan,DJ Harper,2010,2011.0,1599.0
+151,419149,Delhi,PP Chawla,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,wickets,7.0,BF Bowden,AM Saheba,2010,1766.0,1684.5
+152,419150,Jaipur,SR Tendulkar,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,runs,37.0,BR Doctrove,SK Tarapore,2010,1685.5,2020.5
+153,419151,Nagpur,Harmeet Singh,"Vidarbha Cricket Association Stadium, Jamtha",0,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,13.0,RE Koertzen,RB Tiffin,2010,2004.5,2011.0
+154,419152,Mumbai,KA Pollard,Brabourne Stadium,0,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,Mumbai Indians,runs,39.0,S Asnani,DJ Harper,2010,2020.5,1766.0
+155,419153,Chennai,R Ashwin,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,9.0,SS Hazare,SJA Taufel,2010,2108.5,1599.0
+156,419154,Jaipur,KP Pietersen,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,5.0,BR Doctrove,S Ravi,2010,1685.5,2011.0
+157,419155,Chennai,G Gambhir,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Delhi Daredevils,wickets,6.0,HDPK Dharmasena,SS Hazare,2010,2108.5,1766.0
+158,419156,Dharamsala,RG Sharma,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,5.0,M Erasmus,AM Saheba,2010,1684.5,2004.5
+159,419157,Bangalore,R McLaren,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,57.0,HDPK Dharmasena,SJA Taufel,2010,2011.0,2020.5
+160,419158,Kolkata,JD Unadkat,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,8.0,BG Jerling,RB Tiffin,2010,1599.0,1685.5
+161,419159,Dharamsala,MS Dhoni,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,BF Bowden,AM Saheba,2010,1684.5,2108.5
+162,419160,Delhi,A Symonds,Feroz Shah Kotla,0,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,11.0,BR Doctrove,SK Tarapore,2010,1766.0,2004.5
+163,419161,Kolkata,M Kartik,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders,wickets,9.0,BG Jerling,RE Koertzen,2010,1599.0,2020.5
+164,419162,Mumbai,KA Pollard,Dr DY Patil Sports Academy,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,35.0,BR Doctrove,RB Tiffin,2010,2011.0,2020.5
+165,419163,Mumbai,DE Bollinger,Dr DY Patil Sports Academy,0,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,38.0,BR Doctrove,RB Tiffin,2010,2108.5,2004.5
+166,419164,Mumbai,A Kumble,Dr DY Patil Sports Academy,0,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,bat,Royal Challengers Bangalore,wickets,9.0,RE Koertzen,SJA Taufel,2010,2011.0,2004.5
+167,419165,Mumbai,SK Raina,Dr DY Patil Sports Academy,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,22.0,RE Koertzen,SJA Taufel,2010,2108.5,2020.5
+168,501198,Chennai,S Anirudha,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,2.0,BR Doctrove,PR Reiffel,2011,1955.5,1700.0
+169,501199,Hyderabad,SK Trivedi,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8.0,RE Koertzen,SK Tarapore,2011,1757.0,1371.5
+170,501200,Kochi,AB de Villiers,Nehru Stadium,0,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,wickets,6.0,HDPK Dharmasena,K Hariharan,2011,1585.5,2022.5
+171,501201,Delhi,SL Malinga,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,Mumbai Indians,wickets,8.0,AM Saheba,RB Tiffin,2011,1623.5,1961.5
+172,501202,Mumbai,SB Wagh,Dr DY Patil Sports Academy,0,Pune Warriors,Kings XI Punjab,Kings XI Punjab,bat,Pune Warriors,wickets,7.0,BR Doctrove,PR Reiffel,2011,1595.0,1801.5
+173,501203,Kolkata,JH Kallis,Eden Gardens,0,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,9.0,RE Koertzen,SK Tarapore,2011,1700.0,1757.0
+174,501204,Jaipur,SK Warne,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,bat,Rajasthan Royals,wickets,6.0,Aleem Dar,RB Tiffin,2011,1371.5,1623.5
+175,501205,Bangalore,SR Tendulkar,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9.0,HDPK Dharmasena,AL Hill,2011,2022.5,1961.5
+176,501206,Chandigarh,PC Valthaty,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,Asad Rauf,SL Shastri,2011,1801.5,1955.5
+177,501207,Mumbai,MD Mishra,Dr DY Patil Sports Academy,0,Pune Warriors,Kochi Tuskers Kerala,Kochi Tuskers Kerala,bat,Pune Warriors,wickets,4.0,S Asnani,PR Reiffel,2011,1595.0,1585.5
+178,501208,Hyderabad,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,33.0,RE Koertzen,S Ravi,2011,1757.0,2022.5
+179,501209,Jaipur,G Gambhir,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9.0,Aleem Dar,SS Hazare,2011,1371.5,1700.0
+180,501210,Mumbai,BB McCullum,Wankhede Stadium,0,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,8.0,BR Doctrove,PR Reiffel,2011,1961.5,1585.5
+181,501211,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,21.0,HDPK Dharmasena,AL Hill,2011,1955.5,2022.5
+182,501212,Hyderabad,PC Valthaty,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,8.0,RE Koertzen,S Ravi,2011,1757.0,1801.5
+183,501213,Mumbai,Yuvraj Singh,Dr DY Patil Sports Academy,0,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,3.0,Asad Rauf,AM Saheba,2011,1595.0,1623.5
+184,501214,Kolkata,L Balaji,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,Aleem Dar,RB Tiffin,2011,1700.0,1371.5
+185,501216,Delhi,S Sohal,Feroz Shah Kotla,0,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,16.0,PR Reiffel,RJ Tucker,2011,1623.5,1757.0
+186,501218,Mumbai,MM Patel,Wankhede Stadium,0,Mumbai Indians,Pune Warriors,Pune Warriors,bat,Mumbai Indians,wickets,7.0,Asad Rauf,AM Saheba,2011,1961.5,1595.0
+187,501219,Kolkata,DPMD Jayawardene,Eden Gardens,0,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,field,Kochi Tuskers Kerala,runs,6.0,Aleem Dar,RB Tiffin,2011,1700.0,1585.5
+188,501220,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,48.0,S Asnani,PR Reiffel,2011,1801.5,1371.5
+189,501221,Mumbai,Harbhajan Singh,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,8.0,Asad Rauf,AM Saheba,2011,1961.5,1955.5
+190,501222,Kolkata,CH Gayle,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,SS Hazare,RB Tiffin,2011,1700.0,2022.5
+191,501223,Delhi,DA Warner,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Delhi Daredevils,runs,29.0,S Asnani,RE Koertzen,2011,1623.5,1801.5
+192,501224,Hyderabad,SL Malinga,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,37.0,HDPK Dharmasena,AL Hill,2011,1757.0,1961.5
+193,501225,Jaipur,SK Warne,Sawai Mansingh Stadium,0,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,field,Rajasthan Royals,wickets,8.0,BR Doctrove,SK Tarapore,2011,1371.5,1585.5
+194,501226,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Pune Warriors,Pune Warriors,field,Chennai Super Kings,runs,25.0,Aleem Dar,RB Tiffin,2011,1955.5,1595.0
+195,501227,Delhi,V Kohli,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3.0,S Asnani,RJ Tucker,2011,1623.5,2022.5
+196,501228,Mumbai,DE Bollinger,Dr DY Patil Sports Academy,0,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,Chennai Super Kings,wickets,8.0,Asad Rauf,SL Shastri,2011,1595.0,1955.5
+197,501229,Kochi,I Sharma,Nehru Stadium,0,Kochi Tuskers Kerala,Deccan Chargers,Kochi Tuskers Kerala,field,Deccan Chargers,runs,55.0,HDPK Dharmasena,AL Hill,2011,1585.5,1757.0
+198,501230,Delhi,MK Tiwary,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,field,Kolkata Knight Riders,runs,17.0,PR Reiffel,RJ Tucker,2011,1623.5,1700.0
+199,501231,Jaipur,J Botha,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,Asad Rauf,SK Tarapore,2011,1371.5,1961.5
+200,501232,Bangalore,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,runs,26.0,Aleem Dar,SS Hazare,2011,2022.5,1595.0
+201,501233,Kochi,V Sehwag,Nehru Stadium,0,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,38.0,HDPK Dharmasena,AL Hill,2011,1585.5,1623.5
+202,501234,Kolkata,Iqbal Abdulla,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,AM Saheba,SL Shastri,2011,1700.0,1801.5
+203,501235,Jaipur,LRPL Taylor,Sawai Mansingh Stadium,0,Rajasthan Royals,Pune Warriors,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,SK Tarapore,SJA Taufel,2011,1371.5,1595.0
+204,501236,Chennai,JA Morkel,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,19.0,Aleem Dar,RB Tiffin,2011,1955.5,1757.0
+205,501237,Mumbai,KA Pollard,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,23.0,HDPK Dharmasena,PR Reiffel,2011,1961.5,1801.5
+206,501238,Delhi,P Parameswaran,Feroz Shah Kotla,0,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,7.0,Asad Rauf,SL Shastri,2011,1623.5,1585.5
+207,501239,Hyderabad,YK Pathan,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Kolkata Knight Riders,runs,20.0,S Asnani,RJ Tucker,2011,1757.0,1700.0
+208,501240,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,8.0,SS Hazare,RB Tiffin,2011,1955.5,1371.5
+209,501241,Mumbai,R Sharma,Dr DY Patil Sports Academy,0,Pune Warriors,Mumbai Indians,Pune Warriors,field,Mumbai Indians,runs,21.0,HDPK Dharmasena,SJA Taufel,2011,1595.0,1961.5
+210,501242,Kochi,BJ Hodge,Nehru Stadium,0,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,Kochi Tuskers Kerala,runs,17.0,S Ravi,RJ Tucker,2011,1585.5,1700.0
+211,501243,Hyderabad,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,4.0,Asad Rauf,AM Saheba,2011,1757.0,1623.5
+212,501244,Bangalore,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,85.0,Aleem Dar,RB Tiffin,2011,2022.5,1801.5
+213,501246,Mumbai,AT Rayudu,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,32.0,K Hariharan,SJA Taufel,2011,1961.5,1623.5
+214,501247,Bangalore,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kochi Tuskers Kerala,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,wickets,9.0,Aleem Dar,SS Hazare,2011,2022.5,1585.5
+215,501248,Chandigarh,R Sharma,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,Pune Warriors,wickets,5.0,SK Tarapore,RJ Tucker,2011,1801.5,1595.0
+216,501249,Jaipur,M Vijay,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,63.0,K Hariharan,SJA Taufel,2011,1371.5,1955.5
+217,501250,Hyderabad,MR Marsh,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,Pune Warriors,wickets,6.0,Asad Rauf,AM Saheba,2011,1757.0,1595.0
+218,501251,Chandigarh,BA Bhatt,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,76.0,SK Tarapore,RJ Tucker,2011,1801.5,1961.5
+219,501252,Jaipur,S Aravind,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,HDPK Dharmasena,K Hariharan,2011,1371.5,2022.5
+220,501253,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,runs,18.0,AM Saheba,SL Shastri,2011,1955.5,1623.5
+221,501254,Indore,KD Karthik,Holkar Cricket Stadium,0,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,S Asnani,RJ Tucker,2011,1585.5,1801.5
+222,501256,Mumbai,A Mishra,Wankhede Stadium,0,Mumbai Indians,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,10.0,S Ravi,SK Tarapore,2011,1961.5,1757.0
+223,501257,Dharamsala,PP Chawla,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,runs,29.0,Asad Rauf,SL Shastri,2011,1801.5,1623.5
+224,501258,Indore,BJ Hodge,Holkar Cricket Stadium,0,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,8.0,PR Reiffel,RJ Tucker,2011,1585.5,1371.5
+225,501259,Mumbai,A Mishra,Dr DY Patil Sports Academy,0,Pune Warriors,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6.0,S Ravi,SK Tarapore,2011,1595.0,1757.0
+226,501260,Dharamsala,AC Gilchrist,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Kings XI Punjab,runs,111.0,Asad Rauf,AM Saheba,2011,1801.5,2022.5
+227,501261,Chennai,WP Saha,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,bat,Chennai Super Kings,runs,11.0,HDPK Dharmasena,RE Koertzen,2011,1955.5,1585.5
+228,501262,Mumbai,YK Pathan,Dr DY Patil Sports Academy,0,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,S Ravi,SJA Taufel,2011,1595.0,1700.0
+229,501263,Mumbai,SR Watson,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,10.0,RE Koertzen,PR Reiffel,2011,1961.5,1371.5
+230,501264,Dharamsala,S Dhawan,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Deccan Chargers,runs,82.0,Asad Rauf,AM Saheba,2011,1801.5,1757.0
+231,501266,Bangalore,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,K Hariharan,RE Koertzen,2011,2022.5,1955.5
+232,501267,Kolkata,JEC Franklin,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,SK Tarapore,SJA Taufel,2011,1700.0,1961.5
+233,501268,Mumbai,SK Raina,Wankhede Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,Asad Rauf,SJA Taufel,2011,2022.5,1955.5
+234,501269,Mumbai,MM Patel,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,4.0,Asad Rauf,SJA Taufel,2011,1961.5,1700.0
+235,501270,Chennai,CH Gayle,"MA Chidambaram Stadium, Chepauk",0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,43.0,Asad Rauf,SJA Taufel,2011,2022.5,1961.5
+236,501271,Chennai,M Vijay,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,58.0,Asad Rauf,SJA Taufel,2011,1955.5,2022.5
+237,548306,Chennai,RE Levi,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,JD Cloete,SJA Taufel,2012,2197.5,2109.0
+238,548307,Kolkata,IK Pathan,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,8.0,S Asnani,HDPK Dharmasena,2012,2042.0,2190.5
+239,548308,Mumbai,SPD Smith,Wankhede Stadium,0,Mumbai Indians,Pune Warriors,Mumbai Indians,field,Pune Warriors,runs,28.0,AK Chaudhary,SJA Taufel,2012,2109.0,1714.0
+240,548309,Jaipur,AM Rahane,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Rajasthan Royals,runs,31.0,BF Bowden,SK Tarapore,2012,1981.0,1942.0
+241,548310,Bangalore,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,runs,20.0,S Asnani,S Ravi,2012,1944.0,2190.5
+242,548311,Visakhapatnam,RA Jadeja,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Deccan Chargers,Chennai Super Kings,Deccan Chargers,field,Chennai Super Kings,runs,74.0,JD Cloete,HDPK Dharmasena,2012,1773.5,2197.5
+243,548312,Jaipur,BJ Hodge,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,22.0,BF Bowden,VA Kulkarni,2012,1981.0,2042.0
+244,548313,Pune,MN Samuels,Subrata Roy Sahara Stadium,0,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Pune Warriors,runs,22.0,S Das,SJA Taufel,2012,1714.0,1942.0
+245,548314,Visakhapatnam,RG Sharma,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Mumbai Indians,wickets,5.0,AK Chaudhary,JD Cloete,2012,1773.5,2109.0
+246,548315,Bangalore,L Balaji,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,42.0,S Ravi,RJ Tucker,2012,1944.0,2042.0
+247,548316,Delhi,M Morkel,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,field,Delhi Daredevils,wickets,8.0,Asad Rauf,SK Tarapore,2012,2190.5,2197.5
+248,548317,Mumbai,KA Pollard,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,27.0,Aleem Dar,BNJ Oxenford,2012,2109.0,1981.0
+249,548318,Chennai,F du Plessis,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5.0,HDPK Dharmasena,RJ Tucker,2012,2197.5,1944.0
+250,548319,Chandigarh,AD Mascarenhas,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Pune Warriors,Kings XI Punjab,field,Kings XI Punjab,wickets,7.0,VA Kulkarni,SK Tarapore,2012,1942.0,1714.0
+251,548320,Kolkata,Shakib Al Hasan,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,5.0,Asad Rauf,S Asnani,2012,2042.0,1981.0
+252,548321,Delhi,KP Pietersen,Feroz Shah Kotla,0,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Delhi Daredevils,wickets,5.0,BF Bowden,SK Tarapore,2012,2190.5,1773.5
+253,548322,Pune,JD Ryder,Subrata Roy Sahara Stadium,0,Pune Warriors,Chennai Super Kings,Chennai Super Kings,bat,Pune Warriors,wickets,7.0,Aleem Dar,BNJ Oxenford,2012,1714.0,2197.5
+254,548323,Kolkata,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kings XI Punjab,runs,2.0,Asad Rauf,S Asnani,2012,2042.0,1942.0
+255,548324,Bangalore,AM Rahane,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,59.0,JD Cloete,RJ Tucker,2012,1944.0,1981.0
+256,548325,Mumbai,S Nadeem,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7.0,BF Bowden,SK Tarapore,2012,2109.0,2190.5
+257,548326,Jaipur,BJ Hodge,Sawai Mansingh Stadium,0,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,wickets,5.0,Aleem Dar,BNJ Oxenford,2012,1981.0,1773.5
+258,548327,Bangalore,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,bat,Royal Challengers Bangalore,wickets,6.0,S Asnani,S Das,2012,1944.0,1714.0
+259,548328,Chandigarh,G Gambhir,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,8.0,JD Cloete,RJ Tucker,2012,1942.0,2042.0
+260,548329,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,wickets,9.0,JD Cloete,SJA Taufel,2012,1773.5,2190.5
+261,548330,Chennai,KMDN Kulasekara,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Pune Warriors,Pune Warriors,field,Chennai Super Kings,runs,13.0,Asad Rauf,S Das,2012,2197.5,1714.0
+262,548331,Chandigarh,CH Gayle,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5.0,S Ravi,RJ Tucker,2012,1942.0,1944.0
+263,548332,Chennai,F du Plessis,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7.0,Aleem Dar,BNJ Oxenford,2012,2197.5,1981.0
+264,548333,Delhi,SC Ganguly,Feroz Shah Kotla,0,Delhi Daredevils,Pune Warriors,Delhi Daredevils,field,Pune Warriors,runs,20.0,Asad Rauf,S Das,2012,2190.5,1714.0
+265,548334,Mumbai,SE Marsh,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,wickets,6.0,S Ravi,RJ Tucker,2012,2109.0,1942.0
+266,548335,Cuttack,B Lee,Barabati Stadium,0,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,BF Bowden,SK Tarapore,2012,1773.5,2042.0
+267,548336,Jaipur,AB de Villiers,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,runs,46.0,Asad Rauf,S Asnani,2012,1981.0,1944.0
+268,548337,Pune,V Sehwag,Subrata Roy Sahara Stadium,0,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,Delhi Daredevils,wickets,8.0,S Ravi,RJ Tucker,2012,1714.0,2190.5
+269,548339,Chandigarh,AT Rayudu,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,wickets,4.0,Aleem Dar,BNJ Oxenford,2012,1942.0,2109.0
+270,548341,Pune,CL White,Subrata Roy Sahara Stadium,0,Pune Warriors,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,18.0,S Ravi,RJ Tucker,2012,1714.0,1773.5
+271,548342,Delhi,V Sehwag,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,37.0,Aleem Dar,BNJ Oxenford,2012,2190.5,2109.0
+272,548343,Chennai,Mandeep Singh,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,bat,Kings XI Punjab,runs,7.0,BF Bowden,SK Tarapore,2012,2197.5,1942.0
+273,548344,Kolkata,G Gambhir,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,47.0,Asad Rauf,BR Doctrove,2012,2042.0,1944.0
+274,548345,Delhi,V Sehwag,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,1.0,S Ravi,RJ Tucker,2012,2190.5,1981.0
+275,548346,Mumbai,DW Steyn,Wankhede Stadium,0,Mumbai Indians,Deccan Chargers,Mumbai Indians,field,Mumbai Indians,wickets,5.0,AK Chaudhary,BNJ Oxenford,2012,2109.0,1773.5
+276,548347,Chennai,G Gambhir,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5.0,BF Bowden,C Shamshuddin,2012,2197.5,2042.0
+277,548348,Cuttack,KC Sangakkara,Barabati Stadium,0,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,Deccan Chargers,runs,13.0,Aleem Dar,AK Chaudhary,2012,1773.5,1714.0
+278,548349,Jaipur,P Negi,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,Delhi Daredevils,wickets,6.0,JD Cloete,SJA Taufel,2012,1981.0,2190.5
+279,548350,Bangalore,Azhar Mahmood,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,4.0,BF Bowden,C Shamshuddin,2012,1944.0,1942.0
+280,548351,Pune,SL Malinga,Subrata Roy Sahara Stadium,0,Pune Warriors,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,1.0,Asad Rauf,S Asnani,2012,1714.0,2109.0
+281,548352,Chennai,SK Raina,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,10.0,HDPK Dharmasena,BNJ Oxenford,2012,2197.5,1773.5
+282,548353,Kolkata,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,7.0,BF Bowden,SK Tarapore,2012,2042.0,1714.0
+283,548354,Chandigarh,SR Watson,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,43.0,JD Cloete,SJA Taufel,2012,1942.0,1981.0
+284,548355,Mumbai,DR Smith,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,2.0,Asad Rauf,S Asnani,2012,2109.0,2197.5
+285,548356,Bangalore,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5.0,HDPK Dharmasena,BNJ Oxenford,2012,1944.0,1773.5
+286,548357,Delhi,JH Kallis,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,6.0,JD Cloete,S Ravi,2012,2190.5,2042.0
+287,548358,Pune,SR Watson,Subrata Roy Sahara Stadium,0,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,Rajasthan Royals,wickets,7.0,Asad Rauf,BR Doctrove,2012,1714.0,1981.0
+288,548359,Hyderabad,Mandeep Singh,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,25.0,HDPK Dharmasena,BNJ Oxenford,2012,1773.5,1942.0
+289,548360,Mumbai,CH Gayle,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,BF Bowden,VA Kulkarni,2012,2109.0,1944.0
+290,548361,Jaipur,BW Hilfenhaus,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,BNJ Oxenford,C Shamshuddin,2012,1981.0,2197.5
+291,548362,Pune,CH Gayle,Subrata Roy Sahara Stadium,0,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,field,Royal Challengers Bangalore,runs,35.0,BF Bowden,SK Tarapore,2012,1714.0,1944.0
+292,548363,Kolkata,RG Sharma,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,27.0,S Ravi,SJA Taufel,2012,2042.0,2109.0
+293,548364,Chennai,BW Hilfenhaus,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,field,Chennai Super Kings,wickets,9.0,S Das,BR Doctrove,2012,2197.5,2190.5
+294,548365,Jaipur,A Chandila,Sawai Mansingh Stadium,0,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,Rajasthan Royals,runs,45.0,BF Bowden,SK Tarapore,2012,1981.0,1714.0
+295,548366,Chandigarh,DJ Hussey,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Deccan Chargers,Deccan Chargers,bat,Kings XI Punjab,wickets,4.0,HDPK Dharmasena,BNJ Oxenford,2012,1942.0,1773.5
+296,548367,Bangalore,AT Rayudu,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,S Das,BR Doctrove,2012,1944.0,2109.0
+297,548368,Kolkata,MEK Hussey,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,JD Cloete,SJA Taufel,2012,2042.0,2197.5
+298,548369,Delhi,UT Yadav,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,bat,Delhi Daredevils,wickets,5.0,HDPK Dharmasena,BNJ Oxenford,2012,2190.5,1942.0
+299,548370,Mumbai,SP Narine,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,runs,32.0,S Das,BR Doctrove,2012,2109.0,2042.0
+300,548371,Dharamsala,AC Gilchrist,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,VA Kulkarni,SK Tarapore,2012,1942.0,2197.5
+301,548372,Delhi,CH Gayle,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,field,Royal Challengers Bangalore,runs,21.0,HDPK Dharmasena,C Shamshuddin,2012,2190.5,1944.0
+302,548373,Hyderabad,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Deccan Chargers,wickets,5.0,S Ravi,SJA Taufel,2012,1773.5,1981.0
+303,548374,Dharamsala,UT Yadav,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6.0,BF Bowden,VA Kulkarni,2012,1942.0,2190.5
+304,548375,Pune,Shakib Al Hasan,Subrata Roy Sahara Stadium,0,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,34.0,S Asnani,BR Doctrove,2012,1714.0,2042.0
+305,548376,Hyderabad,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",0,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,9.0,S Ravi,SJA Taufel,2012,1773.5,1944.0
+306,548377,Jaipur,DR Smith,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,10.0,HDPK Dharmasena,C Shamshuddin,2012,1981.0,2109.0
+307,548378,Pune,YK Pathan,Subrata Roy Sahara Stadium,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,18.0,BR Doctrove,SJA Taufel,2012,2190.5,2042.0
+308,548379,Bangalore,MS Dhoni,M Chinnaswamy Stadium,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,38.0,BF Bowden,HDPK Dharmasena,2012,2197.5,2109.0
+309,548380,Chennai,M Vijay,"MA Chidambaram Stadium, Chepauk",0,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,field,Chennai Super Kings,runs,86.0,BR Doctrove,SJA Taufel,2012,2190.5,2197.5
+310,548381,Chennai,MS Bisla,"MA Chidambaram Stadium, Chepauk",0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5.0,BF Bowden,SJA Taufel,2012,2042.0,2197.5
+311,597998,Kolkata,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,S Ravi,SJA Taufel,2013,1910.0,1765.0
+312,597999,Bangalore,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,2.0,VA Kulkarni,C Shamshuddin,2013,2104.5,2543.0
+313,598000,Hyderabad,A Mishra,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,Sunrisers Hyderabad,runs,22.0,S Ravi,SJA Taufel,2013,2079.0,1832.5
+314,598001,Delhi,R Dravid,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,5.0,S Das,C Shamshuddin,2013,1765.0,2285.0
+315,598002,Chennai,KA Pollard,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9.0,M Erasmus,VA Kulkarni,2013,2324.5,2543.0
+316,598003,Pune,M Vohra,Subrata Roy Sahara Stadium,0,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Kings XI Punjab,wickets,8.0,S Asnani,SJA Taufel,2013,1832.5,1964.5
+317,598005,Jaipur,SK Trivedi,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,19.0,Aleem Dar,S Das,2013,2285.0,1910.0
+318,598006,Mumbai,KD Karthik,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,Mumbai Indians,runs,44.0,M Erasmus,VA Kulkarni,2013,2543.0,1765.0
+319,598007,Chandigarh,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,10.0,Aleem Dar,C Shamshuddin,2013,1964.5,2324.5
+320,598008,Bangalore,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,Asad Rauf,AK Chaudhary,2013,2104.5,1910.0
+321,598009,Pune,AJ Finch,Subrata Roy Sahara Stadium,0,Pune Warriors,Rajasthan Royals,Rajasthan Royals,bat,Pune Warriors,wickets,7.0,M Erasmus,K Srinath,2013,1832.5,2285.0
+322,598010,Delhi,A Mishra,Feroz Shah Kotla,0,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,3.0,Aleem Dar,Subroto Das,2013,1765.0,2079.0
+323,598011,Mumbai,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,Mumbai Indians,runs,41.0,S Ravi,SJA Taufel,2013,2543.0,1832.5
+324,598012,Chennai,RA Jadeja,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,Asad Rauf,AK Chaudhary,2013,2324.5,2104.5
+325,598013,Kolkata,G Gambhir,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,48.0,M Erasmus,VA Kulkarni,2013,1910.0,2079.0
+326,598014,Jaipur,JP Faulkner,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,Aleem Dar,C Shamshuddin,2013,2285.0,1964.5
+327,598015,Chennai,SPD Smith,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Pune Warriors,Pune Warriors,bat,Pune Warriors,runs,24.0,Asad Rauf,AK Chaudhary,2013,2324.5,1832.5
+328,598016,Chandigarh,MS Gony,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,runs,4.0,CK Nandan,SJA Taufel,2013,1964.5,1910.0
+329,598018,Pune,A Mishra,Subrata Roy Sahara Stadium,0,Pune Warriors,Sunrisers Hyderabad,Pune Warriors,field,Sunrisers Hyderabad,runs,11.0,Asad Rauf,AK Chaudhary,2013,1832.5,2079.0
+330,598019,Jaipur,AM Rahane,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,runs,87.0,Aleem Dar,C Shamshuddin,2013,2285.0,2543.0
+331,598020,Delhi,MEK Hussey,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,86.0,M Erasmus,VA Kulkarni,2013,1765.0,2324.5
+332,598021,Hyderabad,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,bat,Sunrisers Hyderabad,wickets,5.0,HDPK Dharmasena,CK Nandan,2013,2079.0,1964.5
+333,598022,Kolkata,RA Jadeja,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,4.0,Asad Rauf,AK Chaudhary,2013,1910.0,2324.5
+334,598023,Bangalore,R Vinay Kumar,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,Aleem Dar,C Shamshuddin,2013,2104.5,2285.0
+335,598024,Delhi,V Sehwag,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,9.0,HDPK Dharmasena,S Ravi,2013,1765.0,2543.0
+336,598025,Chandigarh,DA Miller,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Pune Warriors,Kings XI Punjab,field,Kings XI Punjab,wickets,7.0,M Erasmus,K Srinath,2013,1964.5,1832.5
+337,598026,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,5.0,S Asnani,AK Chaudhary,2013,2324.5,2285.0
+338,598027,Bangalore,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,runs,130.0,Aleem Dar,C Shamshuddin,2013,2104.5,1832.5
+339,598028,Dharamsala,DA Miller,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,runs,7.0,HDPK Dharmasena,S Ravi,2013,1964.5,1765.0
+340,598029,Kolkata,DR Smith,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,5.0,HDPK Dharmasena,S Ravi,2013,1910.0,2543.0
+341,598030,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,5.0,Aleem Dar,S Das,2013,2324.5,2079.0
+342,598031,Kolkata,JH Kallis,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,6.0,CK Nandan,S Ravi,2013,1910.0,1964.5
+343,598032,Jaipur,JP Faulkner,Sawai Mansingh Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,8.0,VA Kulkarni,K Srinath,2013,2285.0,2079.0
+344,598033,Mumbai,DR Smith,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,runs,58.0,Asad Rauf,S Asnani,2013,2543.0,2104.5
+345,598034,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,14.0,Aleem Dar,SJA Taufel,2013,2324.5,1910.0
+346,598035,Raipur,DA Warner,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Pune Warriors,Pune Warriors,field,Delhi Daredevils,runs,15.0,CK Nandan,S Ravi,2013,1765.0,1832.5
+347,598036,Jaipur,SV Samson,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,4.0,M Erasmus,K Srinath,2013,2285.0,2104.5
+348,598037,Mumbai,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Mumbai Indians,runs,4.0,Asad Rauf,AK Chaudhary,2013,2543.0,1964.5
+349,598038,Pune,MS Dhoni,Subrata Roy Sahara Stadium,0,Pune Warriors,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,37.0,S Das,SJA Taufel,2013,1832.5,2324.5
+350,598039,Hyderabad,I Sharma,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,7.0,Asad Rauf,S Asnani,2013,2079.0,2543.0
+351,598040,Raipur,DA Warner,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,7.0,HDPK Dharmasena,CK Nandan,2013,1765.0,1910.0
+352,598041,Chennai,SK Raina,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,15.0,M Erasmus,VA Kulkarni,2013,2324.5,1964.5
+353,598042,Pune,AB de Villiers,Subrata Roy Sahara Stadium,0,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,17.0,Aleem Dar,C Shamshuddin,2013,1832.5,2104.5
+354,598043,Kolkata,YK Pathan,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,8.0,HDPK Dharmasena,CK Nandan,2013,1910.0,2285.0
+355,598044,Hyderabad,DJG Sammy,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,6.0,Asad Rauf,S Asnani,2013,2079.0,1765.0
+356,598045,Bangalore,AC Gilchrist,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7.0,HDPK Dharmasena,S Ravi,2013,2104.5,1964.5
+357,598046,Mumbai,MG Johnson,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,60.0,HDPK Dharmasena,CK Nandan,2013,2543.0,2324.5
+358,598047,Jaipur,AM Rahane,Sawai Mansingh Stadium,0,Rajasthan Royals,Pune Warriors,Pune Warriors,bat,Rajasthan Royals,wickets,5.0,C Shamshuddin,RJ Tucker,2013,2285.0,1832.5
+359,598048,Bangalore,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,wickets,7.0,S Ravi,SJA Taufel,2013,2104.5,2079.0
+360,598049,Jaipur,AM Rahane,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,bat,Rajasthan Royals,wickets,9.0,Aleem Dar,RJ Tucker,2013,2285.0,1765.0
+361,598050,Mumbai,SR Tendulkar,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,runs,65.0,HDPK Dharmasena,S Ravi,2013,2543.0,1910.0
+362,598051,Hyderabad,SK Raina,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,77.0,S Das,NJ Llong,2013,2079.0,2324.5
+363,598052,Chandigarh,KK Cooper,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8.0,HDPK Dharmasena,S Ravi,2013,1964.5,2285.0
+364,598053,Pune,G Gambhir,Subrata Roy Sahara Stadium,0,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,46.0,Asad Rauf,S Asnani,2013,1832.5,1910.0
+365,598054,Delhi,JD Unadkat,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,field,Royal Challengers Bangalore,runs,4.0,NJ Llong,K Srinath,2013,1765.0,2104.5
+366,598055,Pune,MG Johnson,Subrata Roy Sahara Stadium,0,Pune Warriors,Mumbai Indians,Pune Warriors,bat,Mumbai Indians,wickets,5.0,Asad Rauf,AK Chaudhary,2013,1832.5,2543.0
+367,598056,Chandigarh,PA Patel,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,30.0,S Das,RJ Tucker,2013,1964.5,2079.0
+368,598057,Ranchi,JH Kallis,JSCA International Stadium Complex,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,NJ Llong,K Srinath,2013,1910.0,2104.5
+369,598058,Jaipur,SR Watson,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,5.0,HDPK Dharmasena,CK Nandan,2013,2285.0,2324.5
+370,598059,Delhi,Harmeet Singh,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,5.0,VA Kulkarni,K Srinath,2013,1765.0,1964.5
+371,598060,Mumbai,KA Pollard,Wankhede Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,7.0,AK Chaudhary,SJA Taufel,2013,2543.0,2079.0
+372,598061,Ranchi,MK Pandey,JSCA International Stadium Complex,0,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,field,Pune Warriors,runs,7.0,NJ Llong,K Srinath,2013,1910.0,1832.5
+373,598062,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,runs,33.0,C Shamshuddin,RJ Tucker,2013,2324.5,1765.0
+374,598063,Mumbai,AP Tare,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,14.0,Asad Rauf,S Asnani,2013,2543.0,2285.0
+375,598064,Chandigarh,DA Miller,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,VA Kulkarni,NJ Llong,2013,1964.5,2104.5
+376,598065,Hyderabad,A Mishra,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,23.0,Asad Rauf,AK Chaudhary,2013,2079.0,2285.0
+377,598066,Dharamsala,Azhar Mahmood,Himachal Pradesh Cricket Association Stadium,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,50.0,HDPK Dharmasena,CK Nandan,2013,1964.5,2543.0
+378,598067,Pune,LJ Wright,Subrata Roy Sahara Stadium,0,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,Pune Warriors,runs,38.0,NJ Llong,SJA Taufel,2013,1832.5,1765.0
+379,598068,Bangalore,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,24.0,C Shamshuddin,RJ Tucker,2013,2104.5,2324.5
+380,598069,Hyderabad,PA Patel,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,wickets,5.0,Asad Rauf,S Asnani,2013,2079.0,1910.0
+381,598070,Delhi,MEK Hussey,Feroz Shah Kotla,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,48.0,NJ Llong,RJ Tucker,2013,2324.5,2543.0
+382,598071,Delhi,BJ Hodge,Feroz Shah Kotla,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,4.0,S Ravi,RJ Tucker,2013,2285.0,2079.0
+383,598072,Kolkata,Harbhajan Singh,Eden Gardens,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,wickets,4.0,C Shamshuddin,SJA Taufel,2013,2543.0,2285.0
+384,598073,Kolkata,KA Pollard,Eden Gardens,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23.0,HDPK Dharmasena,SJA Taufel,2013,2324.5,2543.0
+385,729279,Abu Dhabi,JH Kallis,Sheikh Zayed Stadium,1,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,41.0,M Erasmus,RK Illingworth,2014,1811.0,1997.0
+386,729281,,YS Chahal,Sharjah Cricket Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,Aleem Dar,S Ravi,2014,1465.5,1697.0
+387,729283,Abu Dhabi,GJ Maxwell,Sheikh Zayed Stadium,1,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Kings XI Punjab,wickets,6.0,RK Illingworth,C Shamshuddin,2014,2064.0,2408.5
+388,729285,Abu Dhabi,AM Rahane,Sheikh Zayed Stadium,1,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4.0,BF Bowden,RK Illingworth,2014,1665.0,1689.0
+389,729287,,PA Patel,Dubai International Cricket Stadium,1,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,Aleem Dar,AK Chaudhary,2014,1697.0,1811.0
+390,729289,,JP Duminy,Dubai International Cricket Stadium,1,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,4.0,Aleem Dar,VA Kulkarni,2014,1997.0,1465.5
+391,729291,,GJ Maxwell,Sharjah Cricket Stadium,1,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7.0,BF Bowden,M Erasmus,2014,1689.0,2408.5
+392,729293,Abu Dhabi,SK Raina,Sheikh Zayed Stadium,1,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,runs,93.0,RK Illingworth,C Shamshuddin,2014,2064.0,1465.5
+393,729295,,GJ Maxwell,Sharjah Cricket Stadium,1,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kings XI Punjab,runs,72.0,M Erasmus,S Ravi,2014,2408.5,1665.0
+394,729297,,RA Jadeja,Dubai International Cricket Stadium,1,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,7.0,HDPK Dharmasena,RK Illingworth,2014,1689.0,2064.0
+395,729299,,CA Lynn,Sharjah Cricket Stadium,1,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,2.0,Aleem Dar,VA Kulkarni,2014,1697.0,1997.0
+396,729301,,AJ Finch,Dubai International Cricket Stadium,1,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,4.0,M Erasmus,S Ravi,2014,1665.0,1465.5
+397,729303,,MM Sharma,Dubai International Cricket Stadium,1,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7.0,BF Bowden,M Erasmus,2014,2064.0,1811.0
+398,729305,Abu Dhabi,PV Tambe,Sheikh Zayed Stadium,1,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,HDPK Dharmasena,C Shamshuddin,2014,1689.0,1697.0
+399,729307,Abu Dhabi,Sandeep Sharma,Sheikh Zayed Stadium,1,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kings XI Punjab,runs,23.0,HDPK Dharmasena,RK Illingworth,2014,1997.0,2408.5
+400,729309,,M Vijay,Sharjah Cricket Stadium,1,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,6.0,Aleem Dar,VA Kulkarni,2014,1465.5,1811.0
+401,729311,,DR Smith,Sharjah Cricket Stadium,1,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,5.0,AK Chaudhary,VA Kulkarni,2014,1665.0,2064.0
+402,729313,,Sandeep Sharma,Dubai International Cricket Stadium,1,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Kings XI Punjab,wickets,5.0,BF Bowden,S Ravi,2014,2408.5,1697.0
+403,729317,,B Kumar,Dubai International Cricket Stadium,1,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,15.0,HDPK Dharmasena,M Erasmus,2014,1811.0,1665.0
+404,733971,Ranchi,RA Jadeja,JSCA International Stadium Complex,0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,34.0,AK Chaudhary,NJ Llong,2014,2064.0,1997.0
+405,733973,Mumbai,CJ Anderson,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,bat,Mumbai Indians,wickets,5.0,BNJ Oxenford,C Shamshuddin,2014,1811.0,2408.5
+406,733975,Delhi,KK Nair,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,SS Hazare,S Ravi,2014,1465.5,1689.0
+407,733977,Bangalore,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4.0,HDPK Dharmasena,VA Kulkarni,2014,1697.0,1665.0
+408,733979,Ahmedabad,PV Tambe,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,10.0,NJ Llong,CK Nandan,2014,1689.0,1997.0
+409,733981,Delhi,DR Smith,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8.0,RM Deshpande,BNJ Oxenford,2014,1465.5,2064.0
+410,733983,Mumbai,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,19.0,S Ravi,K Srinath,2014,1811.0,1697.0
+411,733985,Delhi,G Gambhir,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,8.0,BNJ Oxenford,C Shamshuddin,2014,1465.5,1997.0
+412,733987,Cuttack,GJ Maxwell,Barabati Stadium,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,runs,44.0,HDPK Dharmasena,PG Pathak,2014,2408.5,2064.0
+413,733989,Ahmedabad,B Kumar,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,32.0,AK Chaudhary,NJ Llong,2014,1689.0,1665.0
+414,733991,Bangalore,Sandeep Sharma,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Kings XI Punjab,runs,32.0,S Ravi,K Srinath,2014,1697.0,2408.5
+415,733995,Mumbai,DR Smith,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,HDPK Dharmasena,VA Kulkarni,2014,1811.0,2064.0
+416,733997,Cuttack,G Gambhir,Barabati Stadium,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9.0,NJ Llong,CK Nandan,2014,2408.5,1997.0
+417,733999,Bangalore,JP Faulkner,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,wickets,5.0,S Ravi,RJ Tucker,2014,1697.0,1689.0
+418,734001,Hyderabad,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,7.0,HDPK Dharmasena,VA Kulkarni,2014,1665.0,1811.0
+419,734003,Ranchi,RA Jadeja,JSCA International Stadium Complex,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,5.0,BNJ Oxenford,C Shamshuddin,2014,2064.0,1689.0
+420,734005,Bangalore,Yuvraj Singh,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,runs,16.0,K Srinath,RJ Tucker,2014,1697.0,1465.5
+421,734007,Hyderabad,WP Saha,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,VA Kulkarni,PG Pathak,2014,1665.0,2408.5
+422,734009,Cuttack,RV Uthappa,Barabati Stadium,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,AK Chaudhary,NJ Llong,2014,1997.0,1811.0
+423,734011,Ahmedabad,AM Rahane,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,runs,62.0,S Ravi,RJ Tucker,2014,1689.0,1465.5
+424,734013,Ranchi,AB de Villiers,JSCA International Stadium Complex,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,wickets,5.0,BNJ Oxenford,C Shamshuddin,2014,2064.0,1697.0
+425,734015,Hyderabad,UT Yadav,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,7.0,NJ Llong,CK Nandan,2014,1665.0,1997.0
+426,734017,Ahmedabad,MEK Hussey,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25.0,S Ravi,RJ Tucker,2014,1689.0,1811.0
+427,734019,Delhi,AR Patel,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,4.0,HDPK Dharmasena,PG Pathak,2014,1465.5,2408.5
+428,734021,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,wickets,7.0,AK Chaudhary,NJ Llong,2014,1665.0,1697.0
+429,734023,Kolkata,RV Uthappa,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,RM Deshpande,C Shamshuddin,2014,1997.0,2064.0
+430,734025,Chandigarh,LMP Simmons,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7.0,HDPK Dharmasena,VA Kulkarni,2014,2408.5,1811.0
+431,734027,Kolkata,RV Uthappa,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,30.0,AK Chaudhary,CK Nandan,2014,1997.0,1697.0
+432,734029,Ranchi,DA Warner,JSCA International Stadium Complex,0,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,BNJ Oxenford,C Shamshuddin,2014,2064.0,1665.0
+433,734031,Mumbai,MEK Hussey,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,15.0,S Ravi,RJ Tucker,2014,1811.0,1465.5
+434,734033,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,16.0,HDPK Dharmasena,PG Pathak,2014,2408.5,1689.0
+435,734035,Bangalore,MS Dhoni,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8.0,AK Chaudhary,NJ Llong,2014,1697.0,2064.0
+436,734037,Kolkata,YK Pathan,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4.0,RM Deshpande,BNJ Oxenford,2014,1997.0,1665.0
+437,734039,Chandigarh,M Vohra,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,wickets,7.0,HDPK Dharmasena,VA Kulkarni,2014,2408.5,1465.5
+438,734041,Mumbai,CJ Anderson,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,5.0,K Srinath,RJ Tucker,2014,1811.0,1689.0
+439,734043,Kolkata,UT Yadav,Eden Gardens,0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,field,Kolkata Knight Riders,runs,28.0,NJ Llong,S Ravi,2014,2408.5,1997.0
+440,734045,Mumbai,SK Raina,Brabourne Stadium,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,VA Kulkarni,BNJ Oxenford,2014,2064.0,1811.0
+441,734047,Mumbai,V Sehwag,Wankhede Stadium,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Kings XI Punjab,runs,24.0,HDPK Dharmasena,RJ Tucker,2014,2064.0,2408.5
+442,734049,Bangalore,MK Pandey,M Chinnaswamy Stadium,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3.0,HDPK Dharmasena,BNJ Oxenford,2014,1997.0,2408.5
+443,829705,Kolkata,M Morkel,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,S Ravi,C Shamshuddin,2015,1687.0,2174.5
+444,829707,Chennai,A Nehra,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,1.0,RK Illingworth,VA Kulkarni,2015,2319.0,1706.0
+445,829709,Pune,JP Faulkner,Maharashtra Cricket Association Stadium,0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,26.0,SD Fry,CB Gaffaney,2015,1544.5,1688.0
+446,829711,Chennai,BB McCullum,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,45.0,RK Illingworth,VA Kulkarni,2015,2319.0,1671.0
+447,829713,Kolkata,CH Gayle,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3.0,S Ravi,C Shamshuddin,2015,1687.0,1951.5
+448,829715,Delhi,DJ Hooda,Feroz Shah Kotla,0,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,SD Fry,CB Gaffaney,2015,1706.0,1688.0
+449,829717,Mumbai,GJ Bailey,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,18.0,AK Chaudhary,K Srinivasan,2015,2174.5,1544.5
+450,829719,Bangalore,DA Warner,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8.0,RM Deshpande,RK Illingworth,2015,1951.5,1671.0
+451,829721,Ahmedabad,SPD Smith,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,wickets,7.0,AK Chaudhary,SD Fry,2015,1688.0,2174.5
+452,829723,Kolkata,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,AK Chaudhary,M Erasmus,2015,1687.0,2319.0
+453,829725,Pune,MA Agarwal,Maharashtra Cricket Association Stadium,0,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,Delhi Daredevils,wickets,5.0,CB Gaffaney,K Srinath,2015,1544.5,1706.0
+454,829727,Visakhapatnam,AM Rahane,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,PG Pathak,S Ravi,2015,1671.0,1688.0
+455,829729,Mumbai,A Nehra,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,wickets,6.0,AK Chaudhary,M Erasmus,2015,2174.5,2319.0
+456,829731,Visakhapatnam,JP Duminy,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,4.0,PG Pathak,S Ravi,2015,1671.0,1706.0
+457,829733,Pune,AD Russell,Maharashtra Cricket Association Stadium,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4.0,SD Fry,CK Nandan,2015,1544.5,1687.0
+458,829735,Ahmedabad,AM Rahane,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,8.0,AK Chaudhary,M Erasmus,2015,1688.0,2319.0
+459,829737,Bangalore,Harbhajan Singh,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,18.0,RK Illingworth,VA Kulkarni,2015,1951.5,2174.5
+460,829739,Delhi,UT Yadav,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,SD Fry,CB Gaffaney,2015,1706.0,1687.0
+461,829745,Bangalore,SK Raina,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,runs,27.0,JD Cloete,C Shamshuddin,2015,1951.5,2319.0
+462,829747,Delhi,SS Iyer,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,37.0,SD Fry,CK Nandan,2015,1706.0,2174.5
+463,829749,Ahmedabad,MA Starc,"Sardar Patel Stadium, Motera",0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,M Erasmus,S Ravi,2015,1688.0,1951.5
+464,829751,Mumbai,SL Malinga,Wankhede Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,20.0,HDPK Dharmasena,CB Gaffaney,2015,2174.5,1671.0
+465,829753,Chennai,BB McCullum,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,97.0,JD Cloete,C Shamshuddin,2015,2319.0,1544.5
+466,829757,Delhi,VR Aaron,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10.0,M Erasmus,S Ravi,2015,1706.0,1951.5
+467,829759,Chandigarh,TA Boult,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,20.0,HDPK Dharmasena,CB Gaffaney,2015,1544.5,1671.0
+468,829761,Kolkata,PP Chawla,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,13.0,AK Chaudhary,M Erasmus,2015,1687.0,1706.0
+469,829765,Chennai,DJ Bravo,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,2.0,RM Deshpande,VA Kulkarni,2015,2319.0,1687.0
+470,829767,Delhi,NM Coulter-Nile,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,wickets,9.0,RK Illingworth,S Ravi,2015,1706.0,1544.5
+471,829769,Mumbai,AT Rayudu,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,8.0,HDPK Dharmasena,CK Nandan,2015,2174.5,1688.0
+472,829771,Bangalore,Mandeep Singh,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,JD Cloete,PG Pathak,2015,1951.5,1687.0
+473,829773,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,runs,22.0,AK Chaudhary,K Srinivasan,2015,1671.0,2319.0
+474,829775,Chandigarh,LMP Simmons,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23.0,RK Illingworth,VA Kulkarni,2015,1544.5,2174.5
+475,829777,Mumbai,AM Rahane,Brabourne Stadium,0,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,runs,14.0,HDPK Dharmasena,CB Gaffaney,2015,1688.0,1706.0
+476,829779,Chennai,SK Raina,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,C Shamshuddin,K Srinath,2015,2319.0,1951.5
+477,829781,Kolkata,UT Yadav,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,35.0,AK Chaudhary,M Erasmus,2015,1687.0,1671.0
+478,829783,Mumbai,Harbhajan Singh,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,bat,Mumbai Indians,wickets,5.0,HDPK Dharmasena,CB Gaffaney,2015,2174.5,1706.0
+479,829785,Bangalore,CH Gayle,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,138.0,RK Illingworth,VA Kulkarni,2015,1951.5,1544.5
+480,829787,Mumbai,EJG Morgan,Brabourne Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,7.0,JD Cloete,C Shamshuddin,2015,1688.0,1671.0
+481,829789,Chennai,HH Pandya,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,wickets,6.0,CB Gaffaney,CK Nandan,2015,2319.0,2174.5
+482,829791,Kolkata,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,1.0,AK Chaudhary,HDPK Dharmasena,2015,1687.0,1544.5
+483,829793,Raipur,MC Henriques,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,6.0,VA Kulkarni,S Ravi,2015,1706.0,1671.0
+484,829795,Mumbai,AB de Villiers,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,39.0,JD Cloete,C Shamshuddin,2015,2174.5,1951.5
+485,829797,Chennai,RA Jadeja,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,12.0,M Erasmus,CK Nandan,2015,2319.0,1688.0
+486,829799,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,5.0,AK Chaudhary,HDPK Dharmasena,2015,1671.0,1544.5
+487,829801,Raipur,Z Khan,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,bat,Delhi Daredevils,wickets,6.0,RK Illingworth,VA Kulkarni,2015,1706.0,2319.0
+488,829803,Chandigarh,AR Patel,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,runs,22.0,JD Cloete,C Shamshuddin,2015,1544.5,1951.5
+489,829805,Mumbai,HH Pandya,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,5.0,RK Illingworth,VA Kulkarni,2015,2174.5,1687.0
+490,829809,Chandigarh,P Negi,"Punjab Cricket Association Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,wickets,7.0,CK Nandan,C Shamshuddin,2015,1544.5,2319.0
+491,829811,Mumbai,SR Watson,Brabourne Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,9.0,RM Deshpande,RK Illingworth,2015,1688.0,1687.0
+492,829815,Hyderabad,MJ McClenaghan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,9.0,CB Gaffaney,K Srinath,2015,1671.0,2174.5
+493,829817,Mumbai,KA Pollard,Wankhede Stadium,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25.0,HDPK Dharmasena,RK Illingworth,2015,2319.0,2174.5
+494,829819,Pune,AB de Villiers,Maharashtra Cricket Association Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,71.0,AK Chaudhary,C Shamshuddin,2015,1951.5,1688.0
+495,829821,Ranchi,A Nehra,JSCA International Stadium Complex,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,3.0,AK Chaudhary,CB Gaffaney,2015,2319.0,1951.5
+496,829823,Kolkata,RG Sharma,Eden Gardens,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,41.0,HDPK Dharmasena,RK Illingworth,2015,2174.5,2319.0
+497,980901,Mumbai,AM Rahane,Wankhede Stadium,0,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,bat,Rising Pune Supergiants,wickets,9.0,HDPK Dharmasena,CK Nandan,2016,1669.5,1593.0
+498,980903,Kolkata,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9.0,S Ravi,C Shamshuddin,2016,1790.0,1587.0
+499,980905,Chandigarh,AJ Finch,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,5.0,AK Chaudhary,VA Kulkarni,2016,1551.0,1869.5
+500,980907,Bangalore,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,45.0,HDPK Dharmasena,VK Sharma,2016,2208.5,2067.0
+501,980909,Kolkata,RG Sharma,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,Nitin Menon,S Ravi,2016,1790.0,1669.5
+502,980911,Rajkot,AJ Finch,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,bat,Gujarat Lions,wickets,7.0,VA Kulkarni,CK Nandan,2016,1869.5,1593.0
+503,980913,Delhi,A Mishra,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,wickets,8.0,S Ravi,C Shamshuddin,2016,1587.0,1551.0
+504,980915,Hyderabad,G Gambhir,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,8.0,AK Chaudhary,CK Nandan,2016,2067.0,1790.0
+505,980917,Mumbai,AJ Finch,Wankhede Stadium,0,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,3.0,HDPK Dharmasena,VK Sharma,2016,1669.5,1869.5
+506,980919,Chandigarh,M Vohra,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,bat,Kings XI Punjab,wickets,6.0,S Ravi,C Shamshuddin,2016,1551.0,1593.0
+507,980921,Bangalore,Q de Kock,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7.0,VA Kulkarni,A Nand Kishore,2016,2208.5,1587.0
+508,980923,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7.0,HDPK Dharmasena,VK Sharma,2016,2067.0,1669.5
+509,980925,Chandigarh,RV Uthappa,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,S Ravi,C Shamshuddin,2016,1551.0,1790.0
+510,980927,Mumbai,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,wickets,6.0,AK Chaudhary,CK Nandan,2016,1669.5,2208.5
+511,980929,Rajkot,B Kumar,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,10.0,K Bharatan,HDPK Dharmasena,2016,1869.5,2067.0
+512,980931,Pune,AB de Villiers,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiants,Royal Challengers Bangalore,Rising Pune Supergiants,field,Royal Challengers Bangalore,runs,13.0,CB Gaffaney,VK Sharma,2016,1593.0,2208.5
+513,980933,Delhi,SV Samson,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,10.0,S Ravi,C Shamshuddin,2016,1587.0,1669.5
+514,980935,Hyderabad,Mustafizur Rahman,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,AK Chaudhary,CK Nandan,2016,2067.0,1551.0
+515,980937,Rajkot,V Kohli,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Gujarat Lions,wickets,6.0,K Bharatan,BNJ Oxenford,2016,1869.5,2208.5
+516,980939,Pune,SA Yadav,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,2.0,CB Gaffaney,A Nand Kishore,2016,1593.0,1790.0
+517,980941,Chandigarh,PA Patel,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,field,Mumbai Indians,runs,25.0,Nitin Menon,RJ Tucker,2016,1551.0,1669.5
+518,980945,Delhi,CH Morris,Feroz Shah Kotla,0,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,field,Gujarat Lions,runs,1.0,M Erasmus,S Ravi,2016,1587.0,1869.5
+519,980947,Mumbai,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,6.0,Nitin Menon,RJ Tucker,2016,1669.5,1790.0
+520,980949,Pune,DR Smith,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,3.0,CB Gaffaney,BNJ Oxenford,2016,1593.0,1869.5
+521,980951,Delhi,CR Brathwaite,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Daredevils,runs,27.0,KN Ananthapadmanabhan,M Erasmus,2016,1587.0,1790.0
+522,980953,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,15.0,AK Chaudhary,HDPK Dharmasena,2016,2067.0,2208.5
+523,980955,Rajkot,AR Patel,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,23.0,BNJ Oxenford,VK Sharma,2016,1869.5,1551.0
+524,980957,Pune,RG Sharma,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,AY Dandekar,RJ Tucker,2016,1593.0,1669.5
+525,980959,Bangalore,AD Russell,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,M Erasmus,S Ravi,2016,2208.5,1790.0
+526,980961,Rajkot,RR Pant,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,8.0,CB Gaffaney,BNJ Oxenford,2016,1869.5,1587.0
+527,980963,Kolkata,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,runs,7.0,AK Chaudhary,HDPK Dharmasena,2016,1790.0,1551.0
+528,980965,Delhi,AM Rahane,Feroz Shah Kotla,0,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,Rising Pune Supergiants,wickets,7.0,C Shamshuddin,RJ Tucker,2016,1587.0,1593.0
+529,980967,Hyderabad,B Kumar,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,M Erasmus,S Ravi,2016,2067.0,1869.5
+530,980969,Bangalore,V Kohli,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,CB Gaffaney,BNJ Oxenford,2016,2208.5,1593.0
+531,980971,Chandigarh,MP Stoinis,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,runs,9.0,HDPK Dharmasena,CK Nandan,2016,1551.0,1587.0
+532,980973,Visakhapatnam,A Nehra,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,85.0,S Ravi,C Shamshuddin,2016,1669.5,2067.0
+533,980975,Kolkata,P Kumar,Eden Gardens,0,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,5.0,M Erasmus,RJ Tucker,2016,1790.0,1869.5
+534,980977,Chandigarh,SR Watson,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Royal Challengers Bangalore,runs,1.0,AK Chaudhary,HDPK Dharmasena,2016,1551.0,2208.5
+535,980979,Visakhapatnam,A Zampa,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,4.0,CB Gaffaney,VK Sharma,2016,1593.0,2067.0
+536,980981,Bangalore,KH Pandya,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,AY Dandekar,C Shamshuddin,2016,2208.5,1669.5
+537,980983,Hyderabad,CH Morris,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7.0,K Bharatan,M Erasmus,2016,2067.0,1587.0
+538,980985,Visakhapatnam,MP Stoinis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,wickets,7.0,HDPK Dharmasena,CK Nandan,2016,1669.5,1551.0
+539,980987,Bangalore,AB de Villiers,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Royal Challengers Bangalore,runs,144.0,AY Dandekar,VK Sharma,2016,2208.5,1869.5
+540,980991,Chandigarh,HM Amla,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Sunrisers Hyderabad,wickets,7.0,KN Ananthapadmanabhan,M Erasmus,2016,1551.0,2067.0
+541,980993,Visakhapatnam,KH Pandya,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,80.0,Nitin Menon,CK Nandan,2016,1669.5,1587.0
+542,980995,Kolkata,V Kohli,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,CB Gaffaney,A Nand Kishore,2016,1790.0,2208.5
+543,981001,Kanpur,DR Smith,Green Park,0,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,field,Gujarat Lions,wickets,6.0,AK Chaudhary,CK Nandan,2016,1869.5,1790.0
+544,981003,Raipur,KK Nair,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,field,Delhi Daredevils,wickets,6.0,A Nand Kishore,BNJ Oxenford,2016,1587.0,2067.0
+545,981005,Visakhapatnam,MS Dhoni,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,bat,Rising Pune Supergiants,wickets,4.0,HDPK Dharmasena,Nitin Menon,2016,1593.0,1551.0
+546,981007,Kanpur,SK Raina,Green Park,0,Gujarat Lions,Mumbai Indians,Gujarat Lions,field,Gujarat Lions,wickets,6.0,AK Chaudhary,CK Nandan,2016,1869.5,1669.5
+547,981009,Kolkata,YK Pathan,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,22.0,KN Ananthapadmanabhan,M Erasmus,2016,1790.0,2067.0
+548,981011,Raipur,V Kohli,Shaheed Veer Narayan Singh International Stadium,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,A Nand Kishore,BNJ Oxenford,2016,1587.0,2208.5
+549,981013,Bangalore,AB de Villiers,M Chinnaswamy Stadium,0,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4.0,AK Chaudhary,HDPK Dharmasena,2016,1869.5,2208.5
+550,981015,Delhi,MC Henriques,Feroz Shah Kotla,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,22.0,M Erasmus,C Shamshuddin,2016,2067.0,1790.0
+551,981017,Delhi,DA Warner,Feroz Shah Kotla,0,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,4.0,M Erasmus,CK Nandan,2016,1869.5,2067.0
+552,981019,Bangalore,BCJ Cutting,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,8.0,HDPK Dharmasena,BNJ Oxenford,2016,2208.5,2067.0
+553,1082591,Hyderabad,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,35.0,AY Dandekar,NJ Llong,2017,1788.5,1505.5
+554,1082592,Pune,SPD Smith,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,7.0,A Nand Kishore,S Ravi,2017,2060.0,2201.5
+555,1082593,Rajkot,CA Lynn,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,10.0,Nitin Menon,CK Nandan,2017,1677.0,1998.5
+556,1082594,Indore,GJ Maxwell,Holkar Cricket Stadium,0,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,AK Chaudhary,C Shamshuddin,2017,1651.0,2060.0
+557,1082595,Bengaluru,KM Jadhav,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,15.0,S Ravi,VK Sharma,2017,1505.5,1703.0
+558,1082596,Hyderabad,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9.0,A Deshmukh,NJ Llong,2017,1788.5,1677.0
+559,1082597,Mumbai,N Rana,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,4.0,Nitin Menon,CK Nandan,2017,2201.5,1998.5
+560,1082598,Indore,AR Patel,Holkar Cricket Stadium,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,8.0,AK Chaudhary,C Shamshuddin,2017,1651.0,1505.5
+561,1082599,Pune,SV Samson,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Delhi Daredevils,Rising Pune Supergiant,field,Delhi Daredevils,runs,97.0,AY Dandekar,S Ravi,2017,2060.0,1703.0
+562,1082600,Mumbai,JJ Bumrah,Wankhede Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,wickets,4.0,Nitin Menon,CK Nandan,2017,2201.5,1788.5
+563,1082601,Kolkata,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,A Deshmukh,NJ Llong,2017,1998.5,1651.0
+564,1082602,Bangalore,KA Pollard,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4.0,KN Ananthapadmanabhan,AK Chaudhary,2017,1505.5,2201.5
+565,1082603,Rajkot,AJ Tye,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,field,Gujarat Lions,wickets,7.0,A Nand Kishore,S Ravi,2017,1677.0,2060.0
+566,1082604,Kolkata,RV Uthappa,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,17.0,AY Dandekar,NJ Llong,2017,1998.5,1788.5
+567,1082605,Delhi,CJ Anderson,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Delhi Daredevils,runs,51.0,YC Barde,Nitin Menon,2017,1703.0,1651.0
+568,1082606,Mumbai,N Rana,Wankhede Stadium,0,Mumbai Indians,Gujarat Lions,Mumbai Indians,field,Mumbai Indians,wickets,6.0,A Nand Kishore,S Ravi,2017,2201.5,1677.0
+569,1082607,Bangalore,BA Stokes,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,field,Rising Pune Supergiant,runs,27.0,KN Ananthapadmanabhan,C Shamshuddin,2017,1505.5,2060.0
+570,1082608,Delhi,NM Coulter-Nile,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,4.0,Nitin Menon,CK Nandan,2017,1703.0,1998.5
+571,1082609,Hyderabad,B Kumar,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,5.0,AY Dandekar,A Deshmukh,2017,1788.5,1651.0
+572,1082610,Rajkot,CH Gayle,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,field,Royal Challengers Bangalore,runs,21.0,S Ravi,VK Sharma,2017,1677.0,1505.5
+573,1082611,Hyderabad,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,15.0,CB Gaffaney,NJ Llong,2017,1788.5,1703.0
+574,1082612,Indore,JC Buttler,Holkar Cricket Stadium,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,M Erasmus,C Shamshuddin,2017,1651.0,2201.5
+575,1082613,Kolkata,SK Raina,Eden Gardens,0,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,4.0,CB Gaffaney,Nitin Menon,2017,1998.5,1677.0
+576,1082614,Mumbai,MJ McClenaghan,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,14.0,A Nand Kishore,S Ravi,2017,2201.5,1703.0
+577,1082615,Pune,MS Dhoni,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,6.0,AY Dandekar,A Deshmukh,2017,2060.0,1788.5
+578,1082616,Rajkot,HM Amla,Saurashtra Cricket Association Stadium,0,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,26.0,AK Chaudhary,M Erasmus,2017,1677.0,1651.0
+579,1082617,Kolkata,NM Coulter-Nile,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,82.0,CB Gaffaney,CK Nandan,2017,1998.5,1505.5
+580,1082618,Mumbai,BA Stokes,Wankhede Stadium,0,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,field,Rising Pune Supergiant,runs,3.0,A Nand Kishore,S Ravi,2017,2201.5,2060.0
+581,1082620,Pune,RV Uthappa,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,AY Dandekar,NJ Llong,2017,2060.0,1998.5
+582,1082621,Bangalore,AJ Tye,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,7.0,AK Chaudhary,C Shamshuddin,2017,1505.5,1677.0
+583,1082622,Kolkata,G Gambhir,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,NJ Llong,S Ravi,2017,1998.5,1703.0
+584,1082623,Chandigarh,Rashid Khan,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,26.0,Nitin Menon,CK Nandan,2017,1651.0,1788.5
+585,1082624,Pune,LH Ferguson,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,runs,61.0,KN Ananthapadmanabhan,M Erasmus,2017,2060.0,1505.5
+586,1082626,Chandigarh,Sandeep Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,wickets,10.0,YC Barde,CK Nandan,2017,1651.0,1703.0
+587,1082627,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,48.0,AY Dandekar,S Ravi,2017,1788.5,1998.5
+588,1082628,Mumbai,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,wickets,5.0,AK Chaudhary,CB Gaffaney,2017,2201.5,1505.5
+589,1082629,Pune,BA Stokes,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,5.0,M Erasmus,C Shamshuddin,2017,2060.0,1677.0
+590,1082630,Delhi,Mohammed Shami,Feroz Shah Kotla,0,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,field,Delhi Daredevils,wickets,6.0,YC Barde,Nitin Menon,2017,1703.0,1788.5
+591,1082631,Kolkata,RA Tripathi,Eden Gardens,0,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,4.0,KN Ananthapadmanabhan,A Nand Kishore,2017,1998.5,2060.0
+592,1082632,Delhi,RR Pant,Feroz Shah Kotla,0,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,field,Delhi Daredevils,wickets,7.0,M Erasmus,Nitin Menon,2017,1703.0,1677.0
+593,1082633,Bangalore,Sandeep Sharma,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Kings XI Punjab,runs,19.0,CB Gaffaney,C Shamshuddin,2017,1505.5,1651.0
+594,1082634,Hyderabad,JD Unadkat,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Rising Pune Supergiant,Sunrisers Hyderabad,field,Rising Pune Supergiant,runs,12.0,KN Ananthapadmanabhan,AK Chaudhary,2017,1788.5,2060.0
+595,1082635,Delhi,LMP Simmons,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Mumbai Indians,runs,146.0,Nitin Menon,CK Nandan,2017,1703.0,2201.5
+596,1082636,Bangalore,SP Narine,M Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,AY Dandekar,C Shamshuddin,2017,1505.5,1998.5
+597,1082637,Chandigarh,DR Smith,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,6.0,A Nand Kishore,VK Sharma,2017,1651.0,1677.0
+598,1082638,Hyderabad,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,7.0,KN Ananthapadmanabhan,M Erasmus,2017,1788.5,2201.5
+599,1082639,Chandigarh,MM Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,runs,14.0,A Nand Kishore,S Ravi,2017,1651.0,1998.5
+600,1082640,Kanpur,SS Iyer,Green Park,0,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,2.0,YC Barde,AK Chaudhary,2017,1677.0,1703.0
+601,1082641,Mumbai,WP Saha,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,7.0,A Deshmukh,A Nand Kishore,2017,2201.5,1651.0
+602,1082642,Delhi,KK Nair,Feroz Shah Kotla,0,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,bat,Delhi Daredevils,runs,7.0,KN Ananthapadmanabhan,CK Nandan,2017,1703.0,2060.0
+603,1082643,Kanpur,Mohammed Siraj,Green Park,0,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8.0,AK Chaudhary,Nitin Menon,2017,1677.0,1788.5
+604,1082644,Kolkata,AT Rayudu,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,9.0,A Nand Kishore,S Ravi,2017,1998.5,2201.5
+605,1082645,Pune,JD Unadkat,Maharashtra Cricket Association Stadium,0,Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,9.0,AY Dandekar,A Deshmukh,2017,2060.0,1651.0
+606,1082646,Delhi,HV Patel,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,10.0,CK Nandan,C Shamshuddin,2017,1703.0,1505.5
+607,1082647,Mumbai,Washington Sundar,Wankhede Stadium,0,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,field,Rising Pune Supergiant,runs,20.0,S Ravi,C Shamshuddin,2017,2201.5,2060.0
+608,1082649,Bangalore,KV Sharma,M Chinnaswamy Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,6.0,NJ Llong,Nitin Menon,2017,2201.5,1998.5
+609,1082650,Hyderabad,KH Pandya,"Rajiv Gandhi International Stadium, Uppal",0,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,Mumbai Indians,runs,1.0,NJ Llong,S Ravi,2017,2201.5,2060.0
+610,1136561,Mumbai,DJ Bravo,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,1.0,CB Gaffaney,A Nand Kishore,2018,1952.0,2225.5
+611,1136562,Chandigarh,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,KN Ananthapadmanabhan,RJ Tucker,2018,1708.0,1790.5
+612,1136563,Kolkata,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4.0,C Shamshuddin,A Deshmukh,2018,2196.5,1852.5
+613,1136564,Hyderabad,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9.0,VA Kulkarni,NJ Llong,2018,2161.0,1751.5
+614,1136565,Chennai,SW Billings,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,CB Gaffaney,AK Chaudhary,2018,2225.5,2196.5
+615,1136567,Hyderabad,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,1.0,NJ Llong,CK Nandan,2018,2161.0,1952.0
+616,1136568,Bengaluru,UT Yadav,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4.0,A Deshmukh,S Ravi,2018,1852.5,1708.0
+617,1136569,Mumbai,JJ Roy,Wankhede Stadium,0,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7.0,KN Ananthapadmanabhan,Nitin Menon,2018,1952.0,1790.5
+618,1136570,Kolkata,B Stanlake,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,AK Chaudhary,A Nand Kishore,2018,2196.5,2161.0
+619,1136571,Bengaluru,SV Samson,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,runs,19.0,C Shamshuddin,S Ravi,2018,1852.5,1751.5
+620,1136572,Chandigarh,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,runs,4.0,VA Kulkarni,CK Nandan,2018,1708.0,2225.5
+621,1136573,Kolkata,N Rana,Eden Gardens,0,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Kolkata Knight Riders,runs,71.0,AK Chaudhary,A Nand Kishore,2018,2196.5,1790.5
+622,1136574,Mumbai,RG Sharma,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,46.0,RJ Tucker,Nitin Menon,2018,1952.0,1852.5
+623,1136575,Jaipur,N Rana,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,A Deshmukh,S Ravi,2018,1751.5,2196.5
+624,1136576,Chandigarh,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Kings XI Punjab,runs,15.0,NJ Llong,AK Chaudhary,2018,1708.0,2161.0
+625,1136577,Pune,SR Watson,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,64.0,KN Ananthapadmanabhan,Nitin Menon,2018,2225.5,1751.5
+626,1136579,Bengaluru,AB de Villiers,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,CB Gaffaney,CK Nandan,2018,1852.5,1790.5
+627,1136580,Hyderabad,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,4.0,VA Kulkarni,AK Chaudhary,2018,2161.0,2225.5
+628,1136581,Jaipur,JC Archer,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,wickets,3.0,KN Ananthapadmanabhan,RJ Tucker,2018,1751.5,1952.0
+629,1136582,Delhi,AS Rajpoot,Feroz Shah Kotla,0,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Kings XI Punjab,runs,4.0,A Nand Kishore,CK Nandan,2018,1790.5,1708.0
+630,1136583,Mumbai,Rashid Khan,Wankhede Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,31.0,C Shamshuddin,S Ravi,2018,1952.0,2161.0
+631,1136584,Bengaluru,MS Dhoni,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,NJ Llong,VK Sharma,2018,1852.5,2225.5
+632,1136585,Hyderabad,AS Rajpoot,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,13.0,YC Barde,CK Nandan,2018,2161.0,1708.0
+633,1136586,Delhi,SS Iyer,Feroz Shah Kotla,0,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Daredevils,runs,55.0,C Shamshuddin,S Ravi,2018,1790.5,2196.5
+634,1136587,Pune,RG Sharma,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,CB Gaffaney,Nitin Menon,2018,2225.5,1952.0
+635,1136588,Jaipur,KS Williamson,Sawai Mansingh Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,11.0,BNJ Oxenford,A Nand Kishore,2018,1751.5,2161.0
+636,1136589,Bengaluru,CA Lynn,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,NJ Llong,AK Chaudhary,2018,1852.5,2196.5
+637,1136590,Pune,SR Watson,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,13.0,AY Dandekar,C Shamshuddin,2018,2225.5,1790.5
+638,1136591,Bengaluru,TG Southee,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,14.0,M Erasmus,Nitin Menon,2018,1852.5,1952.0
+639,1136593,Kolkata,SP Narine,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,HDPK Dharmasena,A Deshmukh,2018,2196.5,2225.5
+640,1136594,Indore,SA Yadav,Holkar Cricket Stadium,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,AY Dandekar,S Ravi,2018,1708.0,1952.0
+641,1136595,Pune,RA Jadeja,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,Nitin Menon,YC Barde,2018,2225.5,1852.5
+642,1136596,Hyderabad,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,7.0,BNJ Oxenford,CK Nandan,2018,2161.0,1790.5
+643,1136597,Mumbai,HH Pandya,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,13.0,HDPK Dharmasena,A Deshmukh,2018,1952.0,2196.5
+644,1136598,Indore,Mujeeb Ur Rahman,Holkar Cricket Stadium,0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,C Shamshuddin,S Ravi,2018,1708.0,1751.5
+645,1136599,Hyderabad,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,5.0,BNJ Oxenford,VK Sharma,2018,2161.0,1852.5
+646,1136600,Jaipur,JC Buttler,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,Rajasthan Royals,runs,15.0,M Erasmus,Nitin Menon,2018,1751.5,1708.0
+647,1136601,Kolkata,Ishan Kishan,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,102.0,KN Ananthapadmanabhan,AK Chaudhary,2018,2196.5,1952.0
+648,1136602,Delhi,S Dhawan,Feroz Shah Kotla,0,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,9.0,AY Dandekar,C Shamshuddin,2018,1790.5,2161.0
+649,1136603,Jaipur,JC Buttler,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,4.0,M Erasmus,YC Barde,2018,1751.5,2225.5
+650,1136604,Indore,SP Narine,Holkar Cricket Stadium,0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,field,Kolkata Knight Riders,runs,31.0,VK Sharma,CK Nandan,2018,1708.0,2196.5
+651,1136605,Delhi,AB de Villiers,Feroz Shah Kotla,0,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5.0,KN Ananthapadmanabhan,HDPK Dharmasena,2018,1790.5,1852.5
+652,1136606,Pune,AT Rayudu,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,8.0,M Erasmus,YC Barde,2018,2225.5,2161.0
+653,1136607,Mumbai,JC Buttler,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,Nitin Menon,S Ravi,2018,1952.0,1751.5
+654,1136608,Indore,UT Yadav,Holkar Cricket Stadium,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10.0,BNJ Oxenford,VK Sharma,2018,1708.0,1852.5
+655,1136609,Kolkata,Kuldeep Yadav,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,HDPK Dharmasena,AK Chaudhary,2018,2196.5,1751.5
+656,1136610,Mumbai,JJ Bumrah,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,3.0,M Erasmus,Nitin Menon,2018,1952.0,1708.0
+657,1136611,Bengaluru,AB de Villiers,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,14.0,AY Dandekar,S Ravi,2018,1852.5,2161.0
+658,1136612,Delhi,HV Patel,Feroz Shah Kotla,0,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Delhi Daredevils,runs,34.0,VA Kulkarni,HDPK Dharmasena,2018,1790.5,2225.5
+659,1136613,Jaipur,S Gopal,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,runs,30.0,BNJ Oxenford,VK Sharma,2018,1751.5,1852.5
+660,1136614,Hyderabad,CA Lynn,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,5.0,AK Chaudhary,S Ravi,2018,2161.0,2196.5
+661,1136615,Delhi,A Mishra,Feroz Shah Kotla,0,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,Delhi Daredevils,runs,11.0,HDPK Dharmasena,CK Nandan,2018,1790.5,1952.0
+662,1136616,Pune,L Ngidi,Maharashtra Cricket Association Stadium,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,Nitin Menon,YC Barde,2018,2225.5,1708.0
+663,1136617,Mumbai,F du Plessis,Wankhede Stadium,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,2.0,C Shamshuddin,M Erasmus,2018,2161.0,2225.5
+664,1136618,Kolkata,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,25.0,AK Chaudhary,Nitin Menon,2018,2196.5,1751.5
+665,1136619,Kolkata,Rashid Khan,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,14.0,HDPK Dharmasena,Nitin Menon,2018,2196.5,2161.0
+666,1136620,Mumbai,SR Watson,Wankhede Stadium,0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,8.0,M Erasmus,S Ravi,2018,2225.5,2161.0
+667,1175356,Chennai,Harbhajan Singh,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,AY Dandekar,BNJ Oxenford,2019,2181.5,1745.5
+668,1175357,Kolkata,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,CB Gaffaney,AK Chaudhary,2019,1786.0,1921.5
+669,1175358,Mumbai,RR Pant,Wankhede Stadium,0,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,runs,37.0,YC Barde,S Ravi,2019,2200.0,2152.5
+670,1175359,Jaipur,CH Gayle,Sawai Mansingh Stadium,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Kings XI Punjab,runs,14.0,KN Ananthapadmanabhan,C Shamshuddin,2019,1632.5,1749.0
+671,1175360,Delhi,SR Watson,Feroz Shah Kotla,0,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,wickets,6.0,M Erasmus,Nitin Menon,2019,2152.5,2181.5
+672,1175361,Kolkata,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,runs,28.0,VA Kulkarni,AK Chaudhary,2019,1786.0,1749.0
+673,1175362,Bengaluru,JJ Bumrah,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,6.0,CK Nandan,S Ravi,2019,1745.5,2200.0
+674,1175363,Hyderabad,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,5.0,C Shamshuddin,BNJ Oxenford,2019,1921.5,1632.5
+675,1175364,Chandigarh,MA Agarwal,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,field,Kings XI Punjab,wickets,8.0,VA Kulkarni,CB Gaffaney,2019,1749.0,2200.0
+676,1175366,Hyderabad,JM Bairstow,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,118.0,KN Ananthapadmanabhan,S Ravi,2019,1921.5,1745.5
+677,1175367,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,8.0,YC Barde,CK Nandan,2019,2181.5,1632.5
+678,1175368,Chandigarh,SM Curran,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Kings XI Punjab,runs,14.0,CB Gaffaney,AK Chaudhary,2019,1749.0,2152.5
+679,1175369,Jaipur,S Gopal,Sawai Mansingh Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,AY Dandekar,M Erasmus,2019,1632.5,1745.5
+680,1175370,Mumbai,HH Pandya,Wankhede Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,37.0,RJ Tucker,BNJ Oxenford,2019,2200.0,2181.5
+681,1175371,Delhi,JM Bairstow,Feroz Shah Kotla,0,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,KN Ananthapadmanabhan,C Shamshuddin,2019,2152.5,1921.5
+682,1175372,Bengaluru,AD Russell,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,CB Gaffaney,AK Chaudhary,2019,1745.5,1786.0
+683,1178393,Chennai,Harbhajan Singh,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,22.0,KN Ananthapadmanabhan,RJ Tucker,2019,2181.5,1749.0
+684,1178394,Hyderabad,AS Joseph,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,runs,40.0,AY Dandekar,Nitin Menon,2019,1921.5,2200.0
+685,1178395,Bengaluru,K Rabada,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4.0,YC Barde,S Ravi,2019,1745.5,2152.5
+686,1178396,Jaipur,HF Gurney,Sawai Mansingh Stadium,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,CB Gaffaney,AK Chaudhary,2019,1632.5,1786.0
+687,1178397,Chandigarh,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,AY Dandekar,M Erasmus,2019,1749.0,1921.5
+688,1178398,Chennai,DL Chahar,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,RJ Tucker,C Shamshuddin,2019,2181.5,1786.0
+689,1178399,Mumbai,KA Pollard,Wankhede Stadium,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Mumbai Indians,wickets,3.0,YC Barde,S Ravi,2019,2200.0,1749.0
+690,1178400,Jaipur,MS Dhoni,Sawai Mansingh Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,UV Gandhe,BNJ Oxenford,2019,1632.5,2181.5
+691,1178401,Kolkata,S Dhawan,Eden Gardens,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,YC Barde,CK Nandan,2019,1786.0,2152.5
+692,1178402,Mumbai,JC Buttler,Wankhede Stadium,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4.0,Nitin Menon,A Nand Kishore,2019,2200.0,1632.5
+693,1178403,Chandigarh,AB de Villiers,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,UV Gandhe,S Ravi,2019,1749.0,1745.5
+694,1178404,Kolkata,Imran Tahir,Eden Gardens,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,RJ Tucker,CK Nandan,2019,1786.0,2181.5
+695,1178405,Hyderabad,KMA Paul,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,runs,39.0,BNJ Oxenford,AK Chaudhary,2019,1921.5,2152.5
+696,1178406,Mumbai,SL Malinga,Wankhede Stadium,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,wickets,5.0,M Erasmus,Nitin Menon,2019,2200.0,1745.5
+697,1178407,Chandigarh,R Ashwin,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,12.0,VA Kulkarni,AK Chaudhary,2019,1749.0,1632.5
+698,1178408,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,wickets,6.0,UV Gandhe,IJ Gould,2019,1921.5,2181.5
+699,1178409,Delhi,HH Pandya,Feroz Shah Kotla,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,40.0,BNJ Oxenford,NJ Llong,2019,2152.5,2200.0
+700,1178410,Kolkata,V Kohli,Eden Gardens,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,runs,10.0,IJ Gould,Nitin Menon,2019,1786.0,1745.5
+701,1178411,Jaipur,SPD Smith,Sawai Mansingh Stadium,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,5.0,YC Barde,S Ravi,2019,1632.5,2200.0
+702,1178412,Delhi,SS Iyer,Feroz Shah Kotla,0,Delhi Capitals,Kings XI Punjab,Delhi Capitals,field,Delhi Capitals,wickets,5.0,UV Gandhe,C Shamshuddin,2019,2152.5,1749.0
+703,1178413,Hyderabad,KK Ahmed,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9.0,NJ Llong,Nitin Menon,2019,1921.5,1786.0
+704,1178414,Bengaluru,PA Patel,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,1.0,RJ Tucker,VA Kulkarni,2019,1745.5,2181.5
+705,1178415,Jaipur,RR Pant,Sawai Mansingh Stadium,0,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6.0,A Nand Kishore,S Ravi,2019,1632.5,2152.5
+706,1178416,Chennai,SR Watson,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,NJ Llong,AK Chaudhary,2019,2181.5,1921.5
+707,1178417,Bengaluru,AB de Villiers,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,17.0,C Shamshuddin,BNJ Oxenford,2019,1745.5,1749.0
+708,1178418,Kolkata,VR Aaron,Eden Gardens,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,AY Dandekar,IJ Gould,2019,1786.0,1632.5
+709,1178419,Chennai,RG Sharma,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,46.0,NJ Llong,AK Chaudhary,2019,2181.5,2200.0
+710,1178420,Jaipur,JD Unadkat,Sawai Mansingh Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,YC Barde,A Nand Kishore,2019,1632.5,1921.5
+711,1178421,Delhi,S Dhawan,Feroz Shah Kotla,0,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,runs,16.0,KN Ananthapadmanabhan,BNJ Oxenford,2019,2152.5,1745.5
+712,1178422,Kolkata,AD Russell,Eden Gardens,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,runs,34.0,IJ Gould,Nitin Menon,2019,1786.0,2200.0
+713,1178423,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,45.0,CK Nandan,S Ravi,2019,1921.5,1749.0
+714,1178425,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",0,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,80.0,AY Dandekar,Nitin Menon,2019,2181.5,2152.5
+715,1178427,Chandigarh,Shubman Gill,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,C Shamshuddin,BNJ Oxenford,2019,1749.0,1786.0
+716,1178428,Delhi,A Mishra,Feroz Shah Kotla,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,wickets,5.0,AY Dandekar,IJ Gould,2019,2152.5,1632.5
+717,1178429,Bengaluru,SO Hetmyer,M.Chinnaswamy Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4.0,NJ Llong,AK Chaudhary,2019,1745.5,1921.5
+718,1178430,Chandigarh,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,KN Ananthapadmanabhan,C Shamshuddin,2019,1749.0,2181.5
+719,1178431,Mumbai,HH Pandya,Wankhede Stadium,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,9.0,A Nand Kishore,CK Nandan,2019,2200.0,1786.0
+720,1181764,Chennai,SA Yadav,"MA Chidambaram Stadium, Chepauk",0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,wickets,6.0,NJ Llong,Nitin Menon,2019,2200.0,2181.5
+721,1181766,Visakhapatnam,RR Pant,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,2.0,BNJ Oxenford,S Ravi,2019,2152.5,1921.5
+722,1181767,Visakhapatnam,F du Plessis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,BNJ Oxenford,S Ravi,2019,2181.5,2152.5
+723,1181768,Hyderabad,JJ Bumrah,"Rajiv Gandhi International Stadium, Uppal",0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,1.0,IJ Gould,Nitin Menon,2019,2200.0,2181.5
+724,1216492,Abu Dhabi,AT Rayudu,Sheikh Zayed Stadium,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,CB Gaffaney,VK Sharma,2020,2259.0,1643.5
+725,1216494,Abu Dhabi,Mohammed Siraj,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,wickets,8.0,VK Sharma,S Ravi,2020,1692.5,1710.0
+726,1216495,Sharjah,S Nadeem,Sharjah Cricket Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,10.0,C Shamshuddin,RK Illingworth,2020,2259.0,1948.5
+727,1216496,Sharjah,SV Samson,Sharjah Cricket Stadium,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,runs,16.0,C Shamshuddin,VA Kulkarni,2020,1703.5,1643.5
+728,1216497,Abu Dhabi,CV Varun,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,runs,59.0,CB Gaffaney,PG Pathak,2020,1692.5,2096.0
+729,1216498,Dubai,CJ Jordan,Dubai International Cricket Stadium,0,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kings XI Punjab,runs,12.0,AY Dandekar,PR Reiffel,2020,1778.0,1948.5
+730,1216499,Abu Dhabi,SA Yadav,Sheikh Zayed Stadium,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,UV Gandhe,CB Gaffaney,2020,1710.0,2259.0
+731,1216500,Sharjah,R Ashwin,Sharjah Cricket Stadium,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,46.0,KN Ananthapadmanabhan,C Shamshuddin,2020,2096.0,1703.5
+732,1216501,Abu Dhabi,RA Tripathi,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,10.0,KN Ananthapadmanabhan,RK Illingworth,2020,1692.5,1643.5
+733,1216502,Sharjah,Sandeep Sharma,Sharjah Cricket Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,KN Ananthapadmanabhan,K Srinivasan,2020,1710.0,1948.5
+734,1216503,Abu Dhabi,KA Pollard,Sheikh Zayed Stadium,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,48.0,VK Sharma,S Ravi,2020,2259.0,1778.0
+735,1216504,Dubai,Shivam Mavi,Dubai International Cricket Stadium,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,37.0,KN Ananthapadmanabhan,C Shamshuddin,2020,1692.5,1703.5
+736,1216505,Abu Dhabi,A Nortje,Sheikh Zayed Stadium,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6.0,CB Gaffaney,S Ravi,2020,1710.0,2096.0
+737,1216506,Abu Dhabi,RD Gaikwad,Sheikh Zayed Stadium,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,9.0,PG Pathak,VK Sharma,2020,1778.0,1643.5
+738,1216507,Dubai,R Tewatia,Dubai International Cricket Stadium,0,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,5.0,YC Barde,PR Reiffel,2020,1948.5,1703.5
+739,1216508,Abu Dhabi,RG Sharma,Sheikh Zayed Stadium,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,49.0,CB Gaffaney,S Ravi,2020,2259.0,1692.5
+740,1216509,Sharjah,S Dhawan,Sharjah Cricket Stadium,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,5.0,KN Ananthapadmanabhan,RK Illingworth,2020,1643.5,2096.0
+741,1216510,Dubai,KL Rahul,Dubai International Cricket Stadium,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,runs,97.0,AK Chaudhary,PR Reiffel,2020,1778.0,1710.0
+742,1216511,Abu Dhabi,SA Yadav,Sheikh Zayed Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,57.0,VK Sharma,S Ravi,2020,2259.0,1703.5
+743,1216513,Dubai,SR Watson,Dubai International Cricket Stadium,0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,wickets,10.0,AY Dandekar,Nitin Menon,2020,1778.0,1643.5
+744,1216514,Abu Dhabi,YS Chahal,Sheikh Zayed Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,8.0,CB Gaffaney,S Ravi,2020,1703.5,1710.0
+745,1216515,Sharjah,SS Iyer,Sharjah Cricket Stadium,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,18.0,VA Kulkarni,RK Illingworth,2020,2096.0,1692.5
+746,1216516,Dubai,PK Garg,Dubai International Cricket Stadium,0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,7.0,AK Chaudhary,PR Reiffel,2020,1948.5,1643.5
+747,1216518,Dubai,MK Pandey,Dubai International Cricket Stadium,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8.0,Nitin Menon,PR Reiffel,2020,1703.5,1948.5
+748,1216519,Dubai,AR Patel,Dubai International Cricket Stadium,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,runs,59.0,Nitin Menon,YC Barde,2020,2096.0,1710.0
+749,1216520,Sharjah,CH Gayle,Sharjah Cricket Stadium,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,8.0,KN Ananthapadmanabhan,RK Illingworth,2020,1692.5,1778.0
+750,1216521,Sharjah,TA Boult,Sharjah Cricket Stadium,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,10.0,C Shamshuddin,VA Kulkarni,2020,1643.5,2259.0
+751,1216522,Dubai,AB de Villiers,Dubai International Cricket Stadium,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,7.0,AK Chaudhary,Nitin Menon,2020,1703.5,1710.0
+752,1216523,Abu Dhabi,KD Karthik,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,2.0,UV Gandhe,CB Gaffaney,2020,1692.5,1778.0
+753,1216524,Dubai,WP Saha,Dubai International Cricket Stadium,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,88.0,AK Chaudhary,Nitin Menon,2020,1948.5,2096.0
+754,1216525,Dubai,V Kohli,Dubai International Cricket Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,37.0,AK Chaudhary,PR Reiffel,2020,1710.0,1643.5
+755,1216526,Abu Dhabi,Q de Kock,Sheikh Zayed Stadium,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,8.0,CB Gaffaney,VK Sharma,2020,1692.5,2259.0
+756,1216527,Sharjah,SV Samson,Sharjah Cricket Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4.0,RK Illingworth,K Srinivasan,2020,1778.0,1703.5
+757,1216528,Dubai,RA Jadeja,Dubai International Cricket Stadium,0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,20.0,AK Chaudhary,PR Reiffel,2020,1643.5,1948.5
+758,1216529,Abu Dhabi,Q de Kock,Sheikh Zayed Stadium,0,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5.0,CB Gaffaney,S Ravi,2020,2096.0,2259.0
+759,1216530,Dubai,PJ Cummins,Dubai International Cricket Stadium,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,60.0,Nitin Menon,PR Reiffel,2020,1692.5,1703.5
+760,1216531,Sharjah,KL Rahul,Sharjah Cricket Stadium,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,8.0,KN Ananthapadmanabhan,C Shamshuddin,2020,1710.0,1778.0
+761,1216532,Abu Dhabi,Rashid Khan,Sheikh Zayed Stadium,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,15.0,VK Sharma,S Ravi,2020,1948.5,2096.0
+762,1216533,Abu Dhabi,JC Buttler,Sheikh Zayed Stadium,0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,7.0,CB Gaffaney,VK Sharma,2020,1643.5,1703.5
+763,1216534,Dubai,YS Chahal,Dubai International Cricket Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,10.0,AY Dandekar,Nitin Menon,2020,1710.0,1948.5
+764,1216535,Dubai,Ishan Kishan,Dubai International Cricket Stadium,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9.0,YC Barde,PR Reiffel,2020,2096.0,2259.0
+765,1216536,Dubai,RD Gaikwad,Dubai International Cricket Stadium,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,C Shamshuddin,RK Illingworth,2020,1692.5,1643.5
+766,1216537,Abu Dhabi,BA Stokes,Sheikh Zayed Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,CB Gaffaney,S Ravi,2020,1778.0,1703.5
+767,1216538,Sharjah,TA Boult,Sharjah Cricket Stadium,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,34.0,KN Ananthapadmanabhan,RK Illingworth,2020,2259.0,1948.5
+768,1216539,Dubai,PP Shaw,Dubai International Cricket Stadium,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,runs,44.0,KN Ananthapadmanabhan,RK Illingworth,2020,2096.0,1643.5
+769,1216540,Sharjah,AB de Villiers,Sharjah Cricket Stadium,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,82.0,RK Illingworth,K Srinivasan,2020,1710.0,1692.5
+770,1216541,Abu Dhabi,BA Stokes,Sheikh Zayed Stadium,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,8.0,UV Gandhe,VK Sharma,2020,2259.0,1703.5
+771,1216542,Dubai,JM Bairstow,Dubai International Cricket Stadium,0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,69.0,AK Chaudhary,Nitin Menon,2020,1948.5,1778.0
+772,1216543,Dubai,A Nortje,Dubai International Cricket Stadium,0,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,13.0,AK Chaudhary,Nitin Menon,2020,2096.0,1703.5
+773,1216544,Dubai,RD Gaikwad,Dubai International Cricket Stadium,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,8.0,C Shamshuddin,RK Illingworth,2020,1710.0,1643.5
+774,1216545,Abu Dhabi,Shubman Gill,Sheikh Zayed Stadium,0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,7.0,CB Gaffaney,VK Sharma,2020,1948.5,1692.5
+775,1216546,Dubai,S Dhawan,Dubai International Cricket Stadium,0,Delhi Capitals,Kings XI Punjab,Delhi Capitals,bat,Kings XI Punjab,wickets,5.0,C Shamshuddin,RK Illingworth,2020,2096.0,1778.0
+776,1237177,Dubai,JJ Bumrah,Dubai International Cricket Stadium,0,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,57.0,CB Gaffaney,Nitin Menon,2020,2259.0,2096.0
+777,1237178,Abu Dhabi,KS Williamson,Sheikh Zayed Stadium,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,PR Reiffel,S Ravi,2020,1710.0,1948.5
+778,1237180,Abu Dhabi,MP Stoinis,Sheikh Zayed Stadium,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,runs,17.0,PR Reiffel,S Ravi,2020,2096.0,1948.5
+779,1237181,Dubai,TA Boult,Dubai International Cricket Stadium,0,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5.0,CB Gaffaney,Nitin Menon,2020,2096.0,2259.0
