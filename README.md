@@ -11,6 +11,7 @@ In this project, we analysed the two IPL datasets (2008-2020): ball-by-ball data
 
 We found a rich dataset on Kaggle which contains the match summary of each game played in the IPL from 2008-2020. The dataset has a CSV file with 17 features (columns) and 816 values (rows). The features are as follows: id, city, date, player_of_match, venue, neutral_venue, team1, team2, toss_winner, toss_decision, winner, result, result_margin, eliminator, method, umpire1, umpire2. We also have a supporting dataset that provides the score and player for each ball in each match. This dataset has 193468 rows and 18 columns. The dataset contains the following features: id, inning, over, ball, batsman, non_striker, bowler, batsman_runs, extra_runs, total_runs, non_boundary, is_wicket, dismissal_kind, player_dismissed, fielder, extras_type,   batting_team, and bowling_team.
 
+[Data source - Cricsheet](https://cricsheet.org/matches/)
 
 ## Methodology
 
